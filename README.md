@@ -5,9 +5,9 @@
 <!-- Power BI Dashboards Repo -->
 <p><a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">My Power BI Dashboards</a> repository. It contains a variety of interactive and insightful dashboards created using Power BI. Perfect for learning BI visualization techniques and for inspiration on how to approach real-world data visualization challenges.</p>
 <a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge - Redirect to Power BI Dashboards Repository" onError="this.onerror=null;this.src='https://via.placeholder.com/150?text=Power+BI';">
 </a>
-
+<br>
 
 <!-- Looker Studio Dashboards Repo -->
 <p>
@@ -15,8 +15,9 @@
   In this repo, you’ll find dashboards built using Looker Studio (formerly Google Data Studio). These dashboards can help you get started with Looker Studio and improve your data reporting skills.
 </p>
 <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">
-  <img src="https://img.shields.io/badge/Looker-2A7EFC?style=for-the-badge&logo=looker&logoColor=white" alt="Looker">
+  <img src="https://img.shields.io/badge/Looker-2A7EFC?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Badge - Redirect to Looker Studio Dashboards Repository" onError="this.onerror=null;this.src='https://via.placeholder.com/150?text=Looker';">
 </a>
+<br>
 
 <!-- Tableau Dashboards Repo -->
 <p> 
@@ -24,9 +25,10 @@
   This repo contains a collection of dashboards designed in Tableau, showcasing a variety of data visualization techniques and tools that can be applied in business intelligence.
 </p>
 <a href="https://github.com/karthic180/tableau_dashboards" target="_blank">
-  <img src="https://img.shields.io/badge/Tableau-006F8E?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Tableau-006F8E?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge - Redirect to Tableau Dashboards Repository" onError="this.onerror=null;this.src='https://via.placeholder.com/150?text=Tableau';">
 </a>
 <br>
+
 
 
 #  About Me:
