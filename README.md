@@ -1,6 +1,8 @@
-<h2>Hi and Welcome</h2>
-<p> This is where you will find my demo projects and work using BI tools such as Power BI and Looker as well as other projects using HTML and CSS </p>
-<h2>My Repos for BI</h2>
+<h2>Hi and Welcome!</h2>
+<p>Here you'll find a collection of my demo projects and work, showcasing my skills with various Business Intelligence (BI) tools like Power BI and Looker, as well as other web development projects using HTML, CSS, and more.</p>
+
+<h2>My BI Projects</h2>
+<p>Explore my repositories below where I demonstrate my expertise in BI, including interactive dashboards, data visualizations, and other data-driven solutions.</p>
 
 <!-- Power BI Dashboards Repo -->
 <p><a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">My Power BI Dashboards</a> repository. It contains a variety of interactive and insightful dashboards created using Power BI. Perfect for learning BI visualization techniques and for inspiration on how to approach real-world data visualization challenges.</p>
