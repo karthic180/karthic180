@@ -36,7 +36,7 @@ Here’s how you can add the badges to your sentences while keeping the links in
 <!-- Additional Badges -->
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sagemaker/)
-[![AWS AI](https://img.shields.io/badge/AWS%20AI-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/machine-learning/)
+[![AWS ML](https://img.shields.io/badge/AWS%20ML-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/machine-learning/)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![Salesforce](https://img.shields.io/badge/Salesforce-%2334A7C1.svg?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 [![Databricks](https://img.shields.io/badge/Databricks-%23FF7A10.svg?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
