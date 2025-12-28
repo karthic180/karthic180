@@ -25,9 +25,7 @@
 <a href="https://github.com/karthic180/tableau_dashboards" target="_blank">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 </a>
-
-
-Here’s how you can add the badges to your sentences while keeping the links intact:
+<br>
 
 
 #  About Me:
