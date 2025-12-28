@@ -33,9 +33,9 @@
 
 
 
-#  About Me:
+#  About Me
  I am a passionate developer and data analyst with hands-on experience working with BI Tools such as Power BI, Looker, and Tableau. I also have experience working with both backend and frontend languages such as SQL, HTML, and CSS.
-#  Tech Stack:
+#  Tech Stack
 <!-- Additional Badges -->
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sagemaker/)
