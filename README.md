@@ -5,10 +5,14 @@
 <p><a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">My Power BI Dashboards</a> repository. It contains a variety of interactive and insightful dashboards created using Power BI. Perfect for learning BI visualization techniques and for inspiration on how to approach real-world data visualization challenges.</p>
 
 <!-- Looker Studio Dashboards Repo -->
-<p> <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">My Looker Studio Dashboards</a> repository. In this repo, you’ll find dashboards built using Looker Studio (formerly Google Data Studio). These dashboards can help you get started with Looker Studio and improve your data reporting skills.</p>
+<p> <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">My Looker Studio Dashboards(Formerly Google Data Studio)</a> repository. In this repo, you’ll find dashboards built using Looker Studio (formerly Google Data Studio). These dashboards can help you get started with Looker Studio and improve your data reporting skills.</p>
 
 <!-- Tableau Dashboards Repo -->
 <p> <a href="https://github.com/karthic180/tableau_dashboards" target="_blank">My Tableau Dashboards</a> repository. This repo contains a collection of dashboards designed in Tableau, showcasing a variety of data visualization techniques and tools that can be applied in business intelligence.</p>
+
+
+Here’s how you can add the badges to your sentences while keeping the links intact:
+
 
 #  About Me:
  I am a passionate developer and data analyst with hands-on experience working with BI Tools such as Power BI, Looker, and Tableau. I also have experience working with both backend and frontend languages such as SQL, HTML, and CSS.
