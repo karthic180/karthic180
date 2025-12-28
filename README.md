@@ -1,6 +1,7 @@
 <h2>Hi and Welcome</h2>
 <p> This is where you will find my demo projects and work using BI tools such as Power BI and Looker as well as other projects using HTML and CSS </p>
 <h2>My Repos for BI</h2>
+
 <!-- Power BI Dashboards Repo -->
 <p><a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">My Power BI Dashboards</a> repository. It contains a variety of interactive and insightful dashboards created using Power BI. Perfect for learning BI visualization techniques and for inspiration on how to approach real-world data visualization challenges.</p>
 <a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">
@@ -23,7 +24,7 @@
   This repo contains a collection of dashboards designed in Tableau, showcasing a variety of data visualization techniques and tools that can be applied in business intelligence.
 </p>
 <a href="https://github.com/karthic180/tableau_dashboards" target="_blank">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Tableau-006F8E?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 </a>
 <br>
 
