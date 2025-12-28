@@ -72,8 +72,7 @@ Here’s how you can add the badges to your sentences while keeping the links in
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
 [![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-%2303A9F4.svg?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
-[![Teams](https://img
-```
+[![Teams](https://img.shields.io/badge/Teams-%23007A8D.svg?style=for-the-badge&logo=teams&logoColor=white)](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
 
 
 <h2>Connect with me</h2>
