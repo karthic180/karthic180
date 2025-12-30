@@ -45,6 +45,11 @@ Here you’ll find demo projects showcasing my work with Power BI, Looker Studio
 <p>
   <a href="https://github.com/karthic180/tableau_dashboards" target="_blank">My Tableau Dashboards</a> — a collection of Tableau projects showcasing visual storytelling and advanced charting techniques.
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Tool-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Category-Data%20Visualization-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-OTT%20Analytics-orange?style=for-the-badge" />
+</p>
 
 <br>
 
