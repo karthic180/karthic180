@@ -16,6 +16,15 @@ Here you’ll find demo projects showcasing my work with Power BI, Looker Studio
 • <strong>Loan Default Risk</strong> — borrower segmentation, risk drivers, KPIs<br>
 • <strong>UK Broadband Performance</strong> — provider comparison, rural vs urban speeds
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Language-DAX-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Power%20Query%20(M)-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Prep-ETL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Category-Business%20Intelligence-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboards-7-green?style=for-the-badge" />
+</p>
+
 
 <br>
 
