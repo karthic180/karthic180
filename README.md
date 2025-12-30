@@ -22,7 +22,6 @@ Here you’ll find demo projects showcasing my work with Power BI, Looker Studio
   <img src="https://img.shields.io/badge/Language-Power%20Query%20(M)-217346?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Prep-ETL-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Category-Business%20Intelligence-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dashboards-7-green?style=for-the-badge" />
 </p>
 
 
@@ -32,6 +31,11 @@ Here you’ll find demo projects showcasing my work with Power BI, Looker Studio
 <p><strong>Looker Studio Dashboards</strong></p>
 <p>
   <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">My Looker Studio Dashboards</a> — dashboards built in Looker Studio (formerly Google Data Studio), ideal for web‑based reporting and lightweight analytics.
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Tool-Looker%20Studio-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Category-Data%20Visualization-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Business%20Analytics-orange?style=for-the-badge" />
 </p>
 
 <br>
