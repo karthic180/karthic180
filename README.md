@@ -18,11 +18,14 @@ Here you’ll find demo projects showcasing my work with Power BI, Looker Studio
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Language-DAX-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-DAX-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Power%20Query%20(M)-217346?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Category-Business%20Intelligence-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Analytics%20%26%20Insights-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Category-Business%20Intelligence-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Analytics%20%26%20Insights-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Sources-CSV%20%7C%20Excel%20%7C%20Web-03A9F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Power%20BI%20Desktop-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
+
 
 
 <br>
@@ -33,9 +36,13 @@ Here you’ll find demo projects showcasing my work with Power BI, Looker Studio
   <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">My Looker Studio Dashboards</a> — dashboards built in Looker Studio (formerly Google Data Studio), ideal for web‑based reporting and lightweight analytics.
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Tool-Looker%20Studio-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Category-Data%20Visualization-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Business%20Analytics-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool-Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Category-Data%20Visualization-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Business%20Analytics-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-BigQuery%20SQL-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Source-BigQuery-673AB7?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Interactivity-Filters%20%7C%20Drilldowns%20%7C%20Controls-03A9F4?style=for-the-badge" />
 </p>
 
 <br>
@@ -46,10 +53,13 @@ Here you’ll find demo projects showcasing my work with Power BI, Looker Studio
   <a href="https://github.com/karthic180/tableau_dashboards" target="_blank">My Tableau Dashboards</a> — a collection of Tableau projects showcasing visual storytelling and advanced charting techniques.
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Tool-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Category-Data%20Visualization-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-OTT%20Analytics-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool-Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Category-Data%20Visualization-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-OTT%20Analytics-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skills-Data%20Prep%20%7C%20ETL%20%7C%20Viz-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Desktop%20%7C%20Public-1976D2?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
+
 
 <br>
 
