@@ -54,7 +54,7 @@ Business‑ready dashboards showcasing DAX, data modeling, and interactive repor
 <p>
   <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white"
+      src="https://img.shields.io/badge/Looker-Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"
       alt="Link to Looker Dashboards Repo"
     />
   </a>
