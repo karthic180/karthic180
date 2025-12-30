@@ -50,7 +50,7 @@ Business‑ready dashboards showcasing DAX, data modeling, and interactive repor
 <br>
 
 <!-- Looker Studio -->
-<h3>Looker Studio</h3>
+<h3>Looker</h3>
 <p>
   <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">
     <img 
@@ -64,13 +64,27 @@ Web‑based dashboards designed for automated insights and stakeholder‑friendl
 </p>
 
 <p align="left">
-  <!-- Tool badge -->
+<!-- Tool badges: Looker + Looker Studio -->
+<p align="left">
+
+  <!-- Looker Studio -->
   <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">
     <img 
       src="https://img.shields.io/badge/Tool-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"
-      alt="Looker Studio Tool Badge"
+      alt="Looker Studio Dashboard Repository Badge"
     />
   </a>
+
+  <!-- Looker -->
+  <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Tool-Looker-1A73E8?style=for-the-badge&logo=looker&logoColor=white"
+      alt="Looker Dashboard Repository Badge"
+    />
+  </a>
+
+</p>
+
 
   <!-- Category / Focus / Skills -->
   <img src="https://img.shields.io/badge/Category-Data%20Visualization-9C27B0?style=for-the-badge" alt="Category: Data Visualization" />
