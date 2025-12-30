@@ -50,7 +50,7 @@ Business‑ready dashboards showcasing DAX, data modeling, and interactive repor
 <br>
 
 <!-- Looker Studio -->
-<h3>Looker</h3>
+<h3>Looker Studio </h3>
 <p>
   <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">
     <img 
