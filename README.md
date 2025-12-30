@@ -65,59 +65,68 @@
 <p>Explore my repositories below where I demonstrate my expertise in BI through interactive dashboards, data visualizations, and end‑to‑end analytical solutions.</p>
 
 <!-- Power BI Dashboards Repo -->
-<p><strong>Power BI Dashboards</strong></p>
+<p><strong>Power BI/strong></p>
 <p>
-  <a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">My Power BI Dashboards</a> — a collection of interactive dashboards covering real‑world analytical scenarios.
-</p>
-
-<p><strong>Featured Dashboards (At a Glance):</strong><br>
-• <strong>UK Rail Performance</strong> — 500k+ journeys, delay causes, revenue, refunds<br>
-• <strong>Loan Default Risk</strong> — borrower segmentation, risk drivers, KPIs<br>
-• <strong>UK Broadband Performance</strong> — provider comparison, rural vs urban speeds
+<a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">Power BI Dashboards</a> — a curated portfolio of business‑ready reports showcasing data modeling, DAX, and end‑to‑end BI solutions.
 </p>
 
 <p align="left">
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  </a>
+
+  <!-- Power BI badge now links to  repo -->
+  <a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">
+    <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
+
   <img src="https://img.shields.io/badge/Language-DAX-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Power%20Query%20(M)-217346?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Skills-Data%20Modeling-795548?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Skills-Visual%20Analytics-03A9F4?style=for-the-badge" />
+
 </p>
 
 <br>
 
 <!-- Looker Studio Dashboards Repo -->
-<p><strong>Looker Studio Dashboards</strong></p>
+<p><strong>Looker and Looker Studio </strong></p>
 <p>
-  <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">My Looker Studio Dashboards</a> — dashboards built in Looker Studio (formerly Google Data Studio), ideal for web‑based reporting and lightweight analytics.
+<a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">Looker Studio Dashboards</a> — interactive, web‑based analytics built for fast insights, automated reporting, and stakeholder‑friendly storytelling.</a>
 </p>
+
 <p align="left">
-  <a href="https://lookerstudio.google.com/">
+
+  <!-- Looker Studio badge now links to  repo -->
+  <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">
     <img src="https://img.shields.io/badge/Tool-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
   </a>
+
   <img src="https://img.shields.io/badge/Category-Data%20Visualization-9C27B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Business%20Analytics-FF9800?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-BigQuery%20SQL-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Platform-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
 </p>
+
 
 <br>
 
 <!-- Tableau Dashboards Repo -->
-<p><strong>Tableau Dashboards</strong></p>
+<p><strong>Tableau</strong></p>
 <p>
-  <a href="https://github.com/karthic180/tableau_dashboards" target="_blank">My Tableau Dashboards</a> — a collection of Tableau projects showcasing visual storytelling and advanced charting techniques.
+<a href="https://github.com/karthic180/tableau_dashboards" target="_blank">Tableau Dashboards</a> — visually rich analytical stories designed with advanced charting, intuitive layouts, and data‑driven narratives.</a>
 </p>
+
 <p align="left">
-  <a href="https://www.tableau.com/">
+
+  <!-- Tableau badge now links to YOUR repo -->
+  <a href="https://github.com/karthic180/tableau_dashboards" target="_blank">
     <img src="https://img.shields.io/badge/Tool-Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
+
   <img src="https://img.shields.io/badge/Category-Data%20Visualization-9C27B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-OTT%20Analytics-FF9800?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Skills-Data%20Prep%20%7C%20ETL%20%7C%20Viz-4CAF50?style=for-the-badge" />
+
 </p>
+
 
 <br>
 <h2>Connect with me</h2>
