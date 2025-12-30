@@ -16,19 +16,38 @@ Here you’ll find demo projects showcasing my work with Power BI, Looker Studio
 • <strong>Loan Default Risk</strong> — borrower segmentation, risk drivers, KPIs<br>
 • <strong>UK Broadband Performance</strong> — provider comparison, rural vs urban speeds
 </p>
+
 <p align="left">
 
+  <!-- Tool (Clickable) -->
   <a href="https://powerbi.microsoft.com/">
     <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   </a>
+
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Language-DAX-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Power%20Query%20(M)-217346?style=for-the-badge" />
+
+  <!-- Skills -->
+  <img src="https://img.shields.io/badge/Skills-Data%20Modeling-795548?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skills-Visual%20Analytics-03A9F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Refresh%20%7C%20Pipelines-607D8B?style=for-the-badge" />
+
+  <!-- Category & Focus -->
   <img src="https://img.shields.io/badge/Category-Business%20Intelligence-9C27B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Analytics%20%26%20Insights-FF9800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Sources-CSV%20%7C%20Excel%20%7C%20Web-03A9F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Skills-Data%20Modeling-795548?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Skills-Visual%20Analytics-03A9F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Platform-Power%20BI%20Desktop-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=white" />
+
+  <!-- Data Sources -->
+  <img src="https://img.shields.io/badge/Data%20Source-CSV-03A9F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Source-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Source-Web-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Source-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Source-SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Source-API-000000?style=for-the-badge" />
+
+  <!-- Platforms -->
+  <img src="https://img.shields.io/badge/Platform-Power%20BI%20Desktop-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Power%20BI%20Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </p>
 
