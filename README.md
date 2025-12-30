@@ -65,7 +65,7 @@
 <p>Explore my repositories below where I demonstrate my expertise in BI through interactive dashboards, data visualizations, and end‑to‑end analytical solutions.</p>
 
 <!-- Power BI Dashboards Repo -->
-<p><strong>Power BI/strong></p>
+<p><strong>Power BI</strong></p>
 <p>
 <a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">Power BI Dashboards</a> — a curated portfolio of business‑ready reports showcasing data modeling, DAX, and end‑to‑end BI solutions.
 </p>
