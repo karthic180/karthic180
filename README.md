@@ -1,33 +1,44 @@
 <h2>Hi and Welcome!</h2>
-<p>Here you'll find a collection of my demo projects and work, showcasing my skills with various Business Intelligence (BI) tools like Power BI and Looker, as well as other web development projects using HTML, CSS, and more.</p>
+<p>I’m Karthic — a BI Developer who enjoys turning data into clear, actionable insights. 
+Here you’ll find demo projects showcasing my work with Power BI, Looker Studio, Tableau, and supporting technologies like SQL, HTML, and CSS.</p>
 
 <h2>My BI Projects</h2>
-<p>Explore my repositories below where I demonstrate my expertise in BI, including interactive dashboards, data visualizations, and other data-driven solutions.</p>
+<p>Explore my repositories below where I demonstrate my expertise in BI through interactive dashboards, data visualizations, and end‑to‑end analytical solutions.</p>
 
 <!-- Power BI Dashboards Repo -->
-<p><a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">My Power BI Dashboards</a> repository. It contains a variety of interactive and insightful dashboards created using Power BI. Perfect for learning BI visualization techniques and for inspiration on how to approach real-world data visualization challenges.</p>
+<p><strong>Power BI Dashboards</strong></p>
+<p>
+  <a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">My Power BI Dashboards</a> — a collection of interactive dashboards covering real‑world analytical scenarios.
+</p>
+
+<p><strong>Featured Dashboards (At a Glance):</strong><br>
+• <strong>UK Rail Performance</strong> — 500k+ journeys, delay causes, revenue, refunds<br>
+• <strong>Loan Default Risk</strong> — borrower segmentation, risk drivers, KPIs<br>
+• <strong>UK Broadband Performance</strong> — provider comparison, rural vs urban speeds
+</p>
 
 <br>
 
 <!-- Looker Studio Dashboards Repo -->
+<p><strong>Looker Studio Dashboards</strong></p>
 <p>
-  <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">My Looker Studio Dashboards (Formerly Google Data Studio)</a> repository. 
-  In this repo, you’ll find dashboards built using Looker Studio (formerly Google Data Studio). These dashboards can help you get started with Looker Studio and improve your data reporting skills.
+  <a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">My Looker Studio Dashboards</a> — dashboards built in Looker Studio (formerly Google Data Studio), ideal for web‑based reporting and lightweight analytics.
 </p>
 
 <br>
 
 <!-- Tableau Dashboards Repo -->
-<p> 
-  <a href="https://github.com/karthic180/tableau_dashboards" target="_blank">My Tableau Dashboards</a> repository. 
-  This repo contains a collection of dashboards designed in Tableau, showcasing a variety of data visualization techniques and tools that can be applied in business intelligence.
+<p><strong>Tableau Dashboards</strong></p>
+<p>
+  <a href="https://github.com/karthic180/tableau_dashboards" target="_blank">My Tableau Dashboards</a> — a collection of Tableau projects showcasing visual storytelling and advanced charting techniques.
 </p>
+
 <br>
 
+<h2>About Me</h2>
+<p>I am a BI developer and data analyst with hands‑on experience in Power BI, Looker Studio, Tableau, SQL, and front‑end technologies like HTML and CSS. I enjoy building clean data models, writing efficient DAX, and designing dashboards that answer real business questions.</p>
 
 
-#  About Me
- I am a passionate developer and data analyst with hands-on experience working with BI Tools such as Power BI, Looker, and Tableau. I also have experience working with both backend and frontend languages such as SQL, HTML, and CSS.
 #  Tech Stack
 <!-- Additional Badges -->
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -70,13 +81,12 @@
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-%2303A9F4.svg?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
 [![Teams](https://img.shields.io/badge/Teams-%23007A8D.svg?style=for-the-badge&logo=teams&logoColor=white)](https://www.microsoft.com/en/microsoft-teams/group-chat-software)
 
-
 <h2>Connect with me</h2>
 <p align="left">
   <a href="https://kaggle.com/karthic180" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karthic180" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
   </a>
   <a href="https://linktr.ee/karthic180" target="blank">
-    <img align="center" src="https://cdn.prod.website-files.com/666255f7f2126f4e8cec6f8f/66634daccb34e6d65a41c76d_download.svg" alt="karthic180" height="30" width="40" />
-  </a>  
+    <img align="center" src="https://cdn.prod.website-files.com/666255f7f2126f4e8cec6f8f/66634daccb34e6d65a41c76d_download.svg" height="30" width="40" />
+  </a>
 </p>
