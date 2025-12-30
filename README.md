@@ -61,19 +61,6 @@
 
 </p>
 
-
-
-<h2>Connect with me</h2>
-<p align="left">
-  <a href="https://kaggle.com/karthic180" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-  </a>
-  <a href="https://linktr.ee/karthic180" target="blank">
-    <img align="center" src="https://cdn.prod.website-files.com/666255f7f2126f4e8cec6f8f/66634daccb34e6d65a41c76d_download.svg" height="30" width="40" />
-  </a>
-</p>
-
-
 <h2>My BI Projects</h2>
 <p>Explore my repositories below where I demonstrate my expertise in BI through interactive dashboards, data visualizations, and end‑to‑end analytical solutions.</p>
 
@@ -133,3 +120,12 @@
 </p>
 
 <br>
+<h2>Connect with me</h2>
+<p align="left">
+  <a href="https://kaggle.com/karthic180" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+  <a href="https://linktr.ee/karthic180" target="blank">
+    <img align="center" src="https://cdn.prod.website-files.com/666255f7f2126f4e8cec6f8f/66634daccb34e6d65a41c76d_download.svg" height="30" width="40" />
+  </a>
+</p>
