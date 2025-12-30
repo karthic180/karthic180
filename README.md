@@ -17,6 +17,7 @@ My experience spans BI development, data analysis, cloud platforms, and front‑
 A quick overview of my core BI work across Power BI, Looker Studio, and Tableau.  
 Each repository contains complete, end‑to‑end dashboards built with strong data modeling, analytics, and visualization principles.
 </p>
+<p><strong>Click the tool badges below to view my dashboards in Power BI, Looker Studio, and Tableau.</strong></p>
 
 <!-- Power BI -->
 <h3> Power BI</h3>
