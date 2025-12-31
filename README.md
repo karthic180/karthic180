@@ -7,15 +7,22 @@
 **Core Skills**
 
 <a href="https://www.microsoft.com/en-us/power-platform"><img src="https://img.shields.io/badge/Data_Analysis-0A66C2?style=flat"/></a>
-<a href="https://www.klipfolio.com/resources/articles/kpi-examples"><img src="https://img.shields.io/badge/KPI_Design_&_Tracking-FF6F00?style=flat"/></a>
-<a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/SQL_Query_Optimisation-CC2927?style=flat"/></a>
-<a href="https://en.wikipedia.org/wiki/Star_schema"><img src="https://img.shields.io/badge/Dimensional_Data_Modelling-00599C?style=flat"/></a>
+<a href="https://www.klipfolio.com/resources/articles/kpi-examples"><img src="https://img.shields.io/badge/KPI_Design_&_Performance_Tracking-FF6F00?style=flat"/></a>
+<a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/Advanced_SQL_Development-CC2927?style=flat"/></a>
+<a href="https://www.postgresql.org/docs/current/performance-tips.html"><img src="https://img.shields.io/badge/SQL_Query_Optimisation-003B57?style=flat"/></a>
+<a href="https://en.wikipedia.org/wiki/Star_schema"><img src="https://img.shields.io/badge/Dimensional_&_Star_Schema_Modelling-00599C?style=flat"/></a>
+<a href="https://learn.microsoft.com/power-bi/transform-model/desktop-semantic-model"><img src="https://img.shields.io/badge/Semantic_Data_Modelling-F2C811?style=flat"/></a>
 <a href="https://learn.microsoft.com/power-bi/"><img src="https://img.shields.io/badge/Dashboard_&_Report_Development-F2C811?style=flat"/></a>
-<a href="https://learn.microsoft.com/power-query/"><img src="https://img.shields.io/badge/Data_Quality_&_Validation-217346?style=flat"/></a>
-<a href="https://cloud.google.com/bigquery/docs"><img src="https://img.shields.io/badge/Multi--Source_Data_Integration-4285F4?style=flat"/></a>
-<a href="https://help.alteryx.com/"><img src="https://img.shields.io/badge/ETL_Automation-1F8ACB?style=flat"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Stakeholder_Reporting-217346?style=flat"/></a>
-<a href="https://www.storytellingwithdata.com/"><img src="https://img.shields.io/badge/Data_Storytelling-FF4081?style=flat"/></a>
+<a href="https://learn.microsoft.com/power-query/"><img src="https://img.shields.io/badge/Data_Cleansing_&_Transformation-217346?style=flat"/></a>
+<a href="https://learn.microsoft.com/power-bi/guidance/data-quality"><img src="https://img.shields.io/badge/Data_Quality_&_Validation-008272?style=flat"/></a>
+<a href="https://cloud.google.com/architecture/best-practices-for-data-ingestion"><img src="https://img.shields.io/badge/Multi--Source_Data_Integration-4285F4?style=flat"/></a>
+<a href="https://help.alteryx.com/designer/automation"><img src="https://img.shields.io/badge/ETL_Design_&_Automation-1F8ACB?style=flat"/></a>
+<a href="https://docs.databricks.com/ingestion/index.html"><img src="https://img.shields.io/badge/Scalable_Data_Pipelines-FF3621?style=flat"/></a>
+<a href="https://www.storytellingwithdata.com/"><img src="https://img.shields.io/badge/Data_Storytelling_&_Insight_Communication-FF4081?style=flat"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Stakeholder_&_Executive_Reporting-217346?style=flat"/></a>
+<a href="https://learn.microsoft.com/power-bi/enterprise-service-security"><img src="https://img.shields.io/badge/Analytics_Governance_&_Best_Practices-0078D4?style=flat"/></a>
+<a href="https://www.unicef.org/evaluation/monitoring"><img src="https://img.shields.io/badge/Survey,_Monitoring_&_Impact_Analysis-1A73E8?style=flat"/></a>
+
 
 **Technical Skills, Tools, and Experience**
 
