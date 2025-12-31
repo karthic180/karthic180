@@ -83,6 +83,7 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/></a>
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
 
+## My Projects
 
 ## BI Dashboards
 
