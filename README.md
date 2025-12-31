@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 <p>I specialise in building clean data models, writing efficient DAX and SQL, and designing dashboards that answer real business questions. My experience spans BI development, data analysis, cloud platforms, and front‑end technologies that support modern analytics.</p>
 
-<h2>Skills & Tools</h2>
+<h2>>Core Skills and Tools</h2>
 
 <p align="left">
 
