@@ -88,8 +88,6 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 
 A curated overview of my Business Intelligence work across Power BI, Looker Studio, and Tableau. Each repository contains end-to-end dashboards with strong data modelling, analytics, and clear visual storytelling.
 
-Click a badge to explore each dashboard collection.
-
 ### Power BI
 
 [![Power BI Dashboards](https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/karthic180/power-bi-dashboards)
