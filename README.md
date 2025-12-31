@@ -88,7 +88,7 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 
 A curated overview of my Business Intelligence work across Power BI, Looker Studio, and Tableau. Each repository contains end-to-end dashboards with strong data modelling, analytics, and clear visual storytelling.
 
-### Power BI
+[Power BI](https://github.com/karthic180/power-bi-dashboards)
 
 [![Power BI Dashboards](https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/karthic180/power-bi-dashboards)
 ![DAX](https://img.shields.io/badge/DAX-000000?style=flat)
@@ -97,7 +97,7 @@ A curated overview of my Business Intelligence work across Power BI, Looker Stud
 ![Interactive Reporting](https://img.shields.io/badge/Interactive_Reporting-03A9F4?style=flat)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-795548?style=flat)
 
-### Looker Studio
+[Looker Studio](https://github.com/karthic180/lookerstudio-dashboards)
 
 [![Looker Studio Dashboards](https://img.shields.io/badge/Looker_Studio_Dashboards-4285F4?style=flat&logo=looker&logoColor=white)](https://github.com/karthic180/lookerstudio-dashboards)
 ![BigQuery SQL](https://img.shields.io/badge/BigQuery_SQL-4285F4?style=flat)
@@ -106,7 +106,7 @@ A curated overview of my Business Intelligence work across Power BI, Looker Stud
 ![Automated Reporting](https://img.shields.io/badge/Automated_Reporting-03A9F4?style=flat)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-9C27B0?style=flat)
 
-### Tableau
+[Tableau](https://github.com/karthic180/tableau_dashboards)
 
 [![Tableau Dashboards](https://img.shields.io/badge/Tableau_Dashboards-005F9E?style=flat&logo=tableau&logoColor=white)](https://github.com/karthic180/tableau_dashboards)
 ![Data Preparation](https://img.shields.io/badge/Data_Preparation-4CAF50?style=flat)
