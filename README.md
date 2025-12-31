@@ -1,8 +1,11 @@
-<h2>👋 Hi and Welcome!</h2>
-<p>I’m Karthic — a BI Developer focused on transforming data into clear, meaningful, and actionable insights. This space showcases my work across Power BI, Looker Studio, Tableau, SQL, and supporting technologies such as HTML, CSS, and cloud platforms.</p>
+## Hi and Welcome
 
-<h2>About Me</h2>
-<p>I specialise in building clean data models, writing efficient DAX and SQL, and designing dashboards that answer real business questions. My experience spans BI development, data analysis, cloud platforms, and front‑end technologies that support modern analytics.</p>
+I’m Karthic, a Business Intelligence and Data Analyst focused on transforming data into clear, actionable insights. This space showcases my work across Power BI, Looker Studio, Tableau, SQL, and supporting technologies, including cloud platforms and web fundamentals.
+
+## About Me
+
+I specialise in building reliable data models, writing efficient SQL and DAX, and designing dashboards that answer real business questions. My experience spans business intelligence development, data analysis, cloud-based analytics, and front-end technologies that support modern reporting and insight delivery.
+
 
 **Core Skills**
 
