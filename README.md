@@ -13,7 +13,7 @@ My experience spans BI development, data analysis, cloud platforms, and front‑
 
 <p align="center">
 
-  <a href="https://www.credly.com/users/karthic2/" target="_blank">
+  <a href="https://www.credly.com/badges/22e2b193-6ee9-4b97-a92f-15e468dc2deb" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Cloud%20Data%20Analytics%20Certificate-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   </a>
 
