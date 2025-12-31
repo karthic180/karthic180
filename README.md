@@ -13,11 +13,11 @@ My experience spans BI development, data analysis, cloud platforms, and front‑
 
 <p align="center">
 
-  <a href="https://cloud.google.com/certification/data-analytics" target="_blank">
+  <a href="https://www.credly.com/users/karthic2/" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Cloud%20Data%20Analytics%20Certificate-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   </a>
 
-  <a href="https://www.alteryx.com/certification/designer-core" target="_blank">
+  <a href="https://www.credly.com/users/karthic2/" target="_blank">
     <img src="https://img.shields.io/badge/Alteryx%20Designer%20Core%20Certification-1F8ACB?style=for-the-badge&logo=alteryx&logoColor=white" />
   </a>
 
@@ -25,7 +25,7 @@ My experience spans BI development, data analysis, cloud platforms, and front‑
     <img src="https://img.shields.io/badge/Alteryx%20Designer%20Cloud%20Core%20Certification-1F8ACB?style=for-the-badge&logo=alteryx&logoColor=white" />
   </a>
 
-  <a href="https://www.jamf.com/training/certification/" target="_blank">
+  <a href="https://www.credly.com/users/karthic2/" target="_blank">
     <img src="https://img.shields.io/badge/JAMF%20Admin%20Certification-0A6EFF?style=for-the-badge&logo=jamf&logoColor=white" />
   </a>
 
