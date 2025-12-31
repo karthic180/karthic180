@@ -9,34 +9,41 @@
 <p align="left">
 
 <strong>Core Skills</strong><br>
-<img src="https://img.shields.io/badge/Data_Analysis-0A66C2?style=flat&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Insight_&_Impact_Reporting-4A154B?style=flat"/>
-<img src="https://img.shields.io/badge/Data_Storytelling-FF4081?style=flat"/>
-<img src="https://img.shields.io/badge/KPI_Frameworks-FF6F00?style=flat"/>
-<img src="https://img.shields.io/badge/SQL_Development-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Advanced_SQL_Querying-336791?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Query_Optimisation-003B57?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stored_Procedures_&_Views-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX_Modelling-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Semantic_Models-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power_Query_ETL-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks_Notebooks-FF3621?style=flat&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spark_SQL-FF3621?style=flat&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delta_Lake_Modelling-FF3621?style=flat&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker_Studio_Reporting-4285F4?style=flat&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blended_Data_Sources-1A73E8?style=flat&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Custom_Fields_&_Calculated_Metrics-4285F4?style=flat&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery_SQL-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Partitioning_&_Clustering-1A73E8?style=flat&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Optimised_Query_Design-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Alteryx_Workflows-1F8ACB?style=flat&logo=alteryx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Preparation-1F8ACB?style=flat&logo=alteryx&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL_Automation-1F8ACB?style=flat&logo=alteryx&logoColor=white"/>
-<img src="https://img.shields.io/badge/STAR_Schema_Modelling-00599C?style=flat"/>
-<img src="https://img.shields.io/badge/Data_Quality_&_Assurance-008272?style=flat"/>
-<img src="https://img.shields.io/badge/Survey_&_Monitoring_Analysis-1A73E8?style=flat"/>
-<img src="https://img.shields.io/badge/Multi--Source_Data_Integration-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<a href="https://www.microsoft.com/en-us/power-platform" target="_blank"><img src="https://img.shields.io/badge/Data_Analysis-0A66C2?style=flat&logo=googleanalytics&logoColor=white"/></a>
+<a href="https://www.microsoft.com/en-us/power-platform" target="_blank"><img src="https://img.shields.io/badge/Insight_&_Impact_Reporting-4A154B?style=flat"/></a>
+<a href="https://www.storytellingwithdata.com/" target="_blank"><img src="https://img.shields.io/badge/Data_Storytelling-FF4081?style=flat"/></a>
+<a href="https://www.klipfolio.com/resources/articles/kpi-examples" target="_blank"><img src="https://img.shields.io/badge/KPI_Frameworks-FF6F00?style=flat"/></a>
+
+<a href="https://learn.microsoft.com/sql/" target="_blank"><img src="https://img.shields.io/badge/SQL_Development-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/></a>
+<a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Advanced_SQL_Querying-336791?style=flat&logo=postgresql&logoColor=white"/></a>
+<a href="https://www.postgresql.org/docs/current/performance-tips.html" target="_blank"><img src="https://img.shields.io/badge/Query_Optimisation-003B57?style=flat&logo=postgresql&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/sql/t-sql/statements/create-procedure-transact-sql" target="_blank"><img src="https://img.shields.io/badge/Stored_Procedures_&_Views-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/></a>
+
+<a href="https://learn.microsoft.com/power-bi/" target="_blank"><img src="https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
+<a href="https://learn.microsoft.com/power-bi/transform-model/desktop-calculated-columns" target="_blank"><img src="https://img.shields.io/badge/DAX_Modelling-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
+<a href="https://learn.microsoft.com/power-bi/transform-model/desktop-semantic-model" target="_blank"><img src="https://img.shields.io/badge/Semantic_Models-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
+<a href="https://learn.microsoft.com/power-query/" target="_blank"><img src="https://img.shields.io/badge/Power_Query_ETL-217346?style=flat&logo=microsoftexcel&logoColor=white"/></a>
+
+<a href="https://docs.databricks.com/" target="_blank"><img src="https://img.shields.io/badge/Databricks_Notebooks-FF3621?style=flat&logo=databricks&logoColor=white"/></a>
+<a href="https://spark.apache.org/docs/latest/sql-programming-guide.html" target="_blank"><img src="https://img.shields.io/badge/Spark_SQL-FF3621?style=flat&logo=apachespark&logoColor=white"/></a>
+<a href="https://docs.delta.io/" target="_blank"><img src="https://img.shields.io/badge/Delta_Lake_Modelling-FF3621?style=flat&logo=databricks&logoColor=white"/></a>
+
+<a href="https://lookerstudio.google.com/" target="_blank"><img src="https://img.shields.io/badge/Looker_Studio_Reporting-4285F4?style=flat&logo=googleanalytics&logoColor=white"/></a>
+<a href="https://support.google.com/looker-studio/answer/6292570" target="_blank"><img src="https://img.shields.io/badge/Blended_Data_Sources-1A73E8?style=flat&logo=googlecloud&logoColor=white"/></a>
+<a href="https://support.google.com/looker-studio/answer/7020039" target="_blank"><img src="https://img.shields.io/badge/Custom_Fields_&_Calculated_Metrics-4285F4?style=flat&logo=googleanalytics&logoColor=white"/></a>
+
+<a href="https://cloud.google.com/bigquery/docs" target="_blank"><img src="https://img.shields.io/badge/BigQuery_SQL-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+<a href="https://cloud.google.com/bigquery/docs/partitioned-tables" target="_blank"><img src="https://img.shields.io/badge/Partitioning_&_Clustering-1A73E8?style=flat&logo=googlecloud&logoColor=white"/></a>
+<a href="https://cloud.google.com/bigquery/docs/best-practices-performance-overview" target="_blank"><img src="https://img.shields.io/badge/Optimised_Query_Design-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+
+<a href="https://help.alteryx.com/" target="_blank"><img src="https://img.shields.io/badge/Alteryx_Workflows-1F8ACB?style=flat&logo=alteryx&logoColor=white"/></a>
+<a href="https://help.alteryx.com/designer" target="_blank"><img src="https://img.shields.io/badge/Data_Preparation-1F8ACB?style=flat&logo=alteryx&logoColor=white"/></a>
+<a href="https://help.alteryx.com/designer/automation" target="_blank"><img src="https://img.shields.io/badge/ETL_Automation-1F8ACB?style=flat&logo=alteryx&logoColor=white"/></a>
+
+<a href="https://en.wikipedia.org/wiki/Star_schema" target="_blank"><img src="https://img.shields.io/badge/STAR_Schema_Modelling-00599C?style=flat"/></a>
+<a href="https://learn.microsoft.com/power-bi/guidance/data-quality" target="_blank"><img src="https://img.shields.io/badge/Data_Quality_&_Assurance-008272?style=flat"/></a>
+<a href="https://www.unicef.org/evaluation/monitoring" target="_blank"><img src="https://img.shields.io/badge/Survey_&_Monitoring_Analysis-1A73E8?style=flat"/></a>
+<a href="https://cloud.google.com/architecture/best-practices-for-data-ingestion" target="_blank"><img src="https://img.shields.io/badge/Multi--Source_Data_Integration-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
 
 <br><br>
 
