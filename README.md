@@ -84,29 +84,35 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
 
 
+## BI Dashboards
 
+A curated overview of my Business Intelligence work across Power BI, Looker Studio, and Tableau. Each repository contains end-to-end dashboards with strong data modelling, analytics, and clear visual storytelling.
 
+Click a badge to explore each dashboard collection.
 
+### Power BI
 
+[![Power BI Dashboards](https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/karthic180/power-bi-dashboards)
+![DAX](https://img.shields.io/badge/DAX-000000?style=flat)
+![Data Modelling](https://img.shields.io/badge/Data_Modelling-00599C?style=flat)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat)
+![Interactive Reporting](https://img.shields.io/badge/Interactive_Reporting-03A9F4?style=flat)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-795548?style=flat)
 
+### Looker Studio
 
+[![Looker Studio Dashboards](https://img.shields.io/badge/Looker_Studio_Dashboards-4285F4?style=flat&logo=looker&logoColor=white)](https://github.com/karthic180/lookerstudio-dashboards)
+![BigQuery SQL](https://img.shields.io/badge/BigQuery_SQL-4285F4?style=flat)
+![Blended Data](https://img.shields.io/badge/Blended_Data_Sources-1A73E8?style=flat)
+![Calculated Fields](https://img.shields.io/badge/Calculated_Fields-0F9D58?style=flat)
+![Automated Reporting](https://img.shields.io/badge/Automated_Reporting-03A9F4?style=flat)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-9C27B0?style=flat)
 
+### Tableau
 
-<h2>BI Dashboards</h2>
-<p>A quick overview of my BI work across Power BI, Looker Studio, and Tableau. Each repo includes complete dashboards with strong data modeling, analytics, and visualization.</p>
-<p><strong>Click a badge below to view each dashboard collection.</strong></p>
-
-<h3><a href="https://github.com/karthic180/power-bi-dashboards" target="_blank">Power BI</a></h3>
-<p><a href="https://github.com/karthic180/power-bi-dashboards" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI GitHub Repository"/></a></p>
-<p>Dashboards featuring DAX, data modeling, and interactive reporting.</p>
-<p><img src="https://img.shields.io/badge/Category-BI-795548?style=flat-square"/> <img src="https://img.shields.io/badge/Focus-Interactive_Reporting-03A9F4?style=flat-square"/> <img src="https://img.shields.io/badge/Skills-DAX_|_Modeling_|_Power_Query-4CAF50?style=flat-square"/></p>
-
-<h3><a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank">Looker Studio</a></h3>
-<p><a href="https://github.com/karthic180/lookerstudio-dashboards" target="_blank"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker Studio GitHub Repository"/></a></p>
-<p>Web‑based dashboards built for automated insights and stakeholder‑friendly analytics.</p>
-<p><img src="https://img.shields.io/badge/Category-Data_Visualization-9C27B0?style=flat-square"/> <img src="https://img.shields.io/badge/Focus-Business_Analytics-FF9800?style=flat-square"/> <img src="https://img.shields.io/badge/Skills-BigQuery_SQL_|_Web_Reporting-0F9D58?style=flat-square"/></p>
-
-<h3><a href="https://github.com/karthic180/tableau_dashboards" target="_blank">Tableau</a></h3>
-<p><a href="https://github.com/karthic180/tableau_dashboards" target="_blank"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat-square&logo=tableau&logoColor=white" alt="Tableau GitHub Repository"/></a></p>
-<p>Analytical stories with advanced charting and intuitive layouts.</p>
-<p><img src="https://img.shields.io/badge/Category-Data_Visualization-9C27B0?style=flat-square"/> <img src="https://img.shields.io/badge/Focus-OTT_Analytics-FF9800?style=flat-square"/> <img src="https://img.shields.io/badge/Skills-Data_Prep_|_ETL_|_Viz-4CAF50?style=flat-square"/></p>
+[![Tableau Dashboards](https://img.shields.io/badge/Tableau_Dashboards-005F9E?style=flat&logo=tableau&logoColor=white)](https://github.com/karthic180/tableau_dashboards)
+![Data Preparation](https://img.shields.io/badge/Data_Preparation-4CAF50?style=flat)
+![ETL](https://img.shields.io/badge/ETL-795548?style=flat)
+![Advanced Visuals](https://img.shields.io/badge/Advanced_Visuals-03A9F4?style=flat)
+![Analytical Storytelling](https://img.shields.io/badge/Analytical_Storytelling-FF9800?style=flat)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-9C27B0?style=flat)
