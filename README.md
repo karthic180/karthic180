@@ -9,12 +9,6 @@ This space showcases my work across Power BI, Looker Studio, Tableau, SQL, and s
 I specialise in building clean data models, writing efficient DAX and SQL, and designing dashboards that answer real business questions.  
 My experience spans BI development, data analysis, cloud platforms, and front‑end technologies that support modern analytics.
 </p>
-<!-- GitHub master link -->
-<p>
-  <a href="https://github.com/karthic180" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_Projects_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <h2>Skills & Tools</h2>
 
@@ -136,4 +130,10 @@ Each repo includes complete dashboards with strong data modeling, analytics, and
   <a href="https://linktr.ee/karthic180" target="blank">
     <img align="center" src="https://cdn.prod.website-files.com/666255f7f2126f4e8cec6f8f/66634daccb34e6d65a41c76d_download.svg" height="30" width="40" alt="Karthic Linktree" />
   </a>
+  <!-- GitHub master link -->
+<p>
+  <a href="https://github.com/karthic180" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Projects_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 </p>
