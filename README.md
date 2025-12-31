@@ -67,7 +67,7 @@
 <a href="https://copilotstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Copilot_Studio-0A5BD7?style=flat&logo=botframework&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/power-platform/power-pages/" target="_blank"><img src="https://img.shields.io/badge/Power_Pages-2E77BB?style=flat&logo=microsoft&logoColor=white"/></a>
 
-<br><strong>Cloud & Platforms</strong><br>
+<br><strong>Cloud and Platforms</strong><br>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
@@ -76,12 +76,12 @@
 <a href="https://azure.microsoft.com/products/devops" target="_blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/fabric/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/></a>
 
-<br><strong>AI & ML Tools</strong><br>
+<br><strong>AI and ML</strong><br>
 <a href="https://aws.amazon.com/sagemaker/" target="_blank"><img src="https://img.shields.io/badge/AWS_SageMaker-232F3E?style=flat&logo=amazonaws&logoColor=white"/></a>
 <a href="https://azure.microsoft.com/products/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
 <a href="https://www.databricks.com/product/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Databricks_ML-FF3621?style=flat&logo=databricks&logoColor=white"/></a>
 
-<br><strong>Microsoft Collaboration & Office</strong><br>
+<br><strong>Collaboration</strong><br>
 <a href="https://www.microsoft.com/en/microsoft-teams" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white"/></a>
 <a href="https://www.microsoft.com/microsoft-365/sharepoint/collaboration" target="_blank"><img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank"><img src="https://img.shields.io/badge/OneDrive-0078D4?style=flat&logo=microsoftonedrive&logoColor=white"/></a>
@@ -91,7 +91,7 @@
 <a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a>
 <a href="https://www.microsoft.com/microsoft-365/onenote" target="_blank"><img src="https://img.shields.io/badge/OneNote-7719AA?style=flat&logo=microsoftonenote&logoColor=white"/></a>
 
-<br><strong>Files & Data</strong><br>
+<br><strong>Files and Data</strong><br>
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Comma-separated_values" target="_blank"><img src="https://img.shields.io/badge/CSV-000000?style=flat&logo=files&logoColor=white"/></a>
 
