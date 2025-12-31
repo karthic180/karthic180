@@ -5,7 +5,6 @@
 <p>I specialise in building clean data models, writing efficient DAX and SQL, and designing dashboards that answer real business questions. My experience spans BI development, data analysis, cloud platforms, and front‑end technologies that support modern analytics.</p>
 
 <h2>Skills & Tools</h2>
-
 <p align="center">
 
 <strong>BI Tools</strong><br>
@@ -30,13 +29,37 @@
 <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
 
+<br><strong>Power Platform</strong><br>
+<a href="https://powerapps.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white"/>
+</a>
+<a href="https://powerautomate.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/>
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+</a>
+<a href="https://powervirtualagents.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Power_Virtual_Agents-0A5BD7?style=flat&logo=botframework&logoColor=white"/>
+</a>
+<a href="https://learn.microsoft.com/power-platform/power-pages/" target="_blank">
+  <img src="https://img.shields.io/badge/Power_Pages-2E77BB?style=flat&logo=microsoft&logoColor=white"/>
+</a>
+
+
 <br><strong>Cloud & Platforms</strong><br>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
+<a href="https://www.databricks.com/" target="_blank"><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/></a>
 <a href="https://www.microsoft.com/sharepoint" target="_blank"><img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white"/></a>
 <a href="https://azure.microsoft.com/products/devops" target="_blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/fabric/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/></a>
+
+<br><strong>AI & ML Tools</strong><br>
+<a href="https://aws.amazon.com/sagemaker/" target="_blank"><img src="https://img.shields.io/badge/AWS_SageMaker-232F3E?style=flat&logo=amazonaws&logoColor=white"/></a>
+<a href="https://azure.microsoft.com/products/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
+<a href="https://www.databricks.com/product/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Databricks_ML-FF3621?style=flat&logo=databricks&logoColor=white"/></a>
 
 <br><strong>Collaboration</strong><br>
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/></a>
@@ -49,6 +72,10 @@
 <br><strong>Files & Data</strong><br>
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Comma-separated_values" target="_blank"><img src="https://img.shields.io/badge/CSV-000000?style=flat&logo=files&logoColor=white"/></a>
+
+</p>
+
+
 
 </p>
 
