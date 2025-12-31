@@ -5,23 +5,56 @@
 <p>I specialise in building clean data models, writing efficient DAX and SQL, and designing dashboards that answer real business questions. My experience spans BI development, data analysis, cloud platforms, and front‑end technologies that support modern analytics.</p>
 
 <h2>Skills & Tools</h2>
-<p align="center">
+
+<p align="left">
+
+<strong>Core Skills</strong><br>
+<img src="https://img.shields.io/badge/Data_Analysis-0A66C2?style=flat&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insight_&_Impact_Reporting-4A154B?style=flat"/>
+<img src="https://img.shields.io/badge/Data_Storytelling-FF4081?style=flat"/>
+<img src="https://img.shields.io/badge/KPI_Frameworks-FF6F00?style=flat"/>
+<img src="https://img.shields.io/badge/SQL_Development-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced_SQL_Querying-336791?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Query_Optimisation-003B57?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stored_Procedures_&_Views-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX_Modelling-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Semantic_Models-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_Query_ETL-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks_Notebooks-FF3621?style=flat&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark_SQL-FF3621?style=flat&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake_Modelling-FF3621?style=flat&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker_Studio_Reporting-4285F4?style=flat&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blended_Data_Sources-1A73E8?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Custom_Fields_&_Calculated_Metrics-4285F4?style=flat&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery_SQL-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Partitioning_&_Clustering-1A73E8?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Optimised_Query_Design-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alteryx_Workflows-1F8ACB?style=flat&logo=alteryx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Preparation-1F8ACB?style=flat&logo=alteryx&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL_Automation-1F8ACB?style=flat&logo=alteryx&logoColor=white"/>
+<img src="https://img.shields.io/badge/STAR_Schema_Modelling-00599C?style=flat"/>
+<img src="https://img.shields.io/badge/Data_Quality_&_Assurance-008272?style=flat"/>
+<img src="https://img.shields.io/badge/Survey_&_Monitoring_Analysis-1A73E8?style=flat"/>
+<img src="https://img.shields.io/badge/Multi--Source_Data_Integration-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+
+<br><br>
 
 <strong>BI Tools</strong><br>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
 <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat&logo=tableau&logoColor=white"/></a>
-<a href="https://lookerstudio.google.com/" target="_blank"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white"/></a>
-<a href="https://looker.com/" target="_blank"><img src="https://img.shields.io/badge/Looker-1A73E8?style=flat&logo=looker&logoColor=white"/></a>
+<a href="https://lookerstudio.google.com/" target="_blank"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white"/></a>
+<a href="https://cloud.google.com/looker" target="_blank"><img src="https://img.shields.io/badge/Looker_(Google_Cloud)-1A73E8?style=flat&logo=looker&logoColor=white"/></a>
 <a href="https://www.alteryx.com/" target="_blank"><img src="https://img.shields.io/badge/Alteryx-1F8ACB?style=flat&logo=alteryx&logoColor=white"/></a>
 
 <br><strong>Databases</strong><br>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></a>
-<a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/></a>
-<a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+<a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/></a>
+<a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
 
 <br><strong>Languages</strong><br>
 <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white"/></a>
-<a href="https://learn.microsoft.com/power-bi/" target="_blank"><img src="https://img.shields.io/badge/DAX-000000?style=flat"/></a>
+<a href="https://learn.microsoft.com/power-bi/" target="_blank"><img src="https://img.shields.io/badge/DAX-000000?style=flat&logo=microsoft&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
@@ -33,13 +66,13 @@
 <a href="https://powerapps.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white"/></a>
 <a href="https://powerautomate.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/></a>
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
-<a href="https://powervirtualagents.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_Virtual_Agents-0A5BD7?style=flat&logo=botframework&logoColor=white"/></a>
+<a href="https://copilotstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Copilot_Studio-0A5BD7?style=flat&logo=botframework&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/power-platform/power-pages/" target="_blank"><img src="https://img.shields.io/badge/Power_Pages-2E77BB?style=flat&logo=microsoft&logoColor=white"/></a>
 
 <br><strong>Cloud & Platforms</strong><br>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
 <a href="https://www.databricks.com/" target="_blank"><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/></a>
 <a href="https://www.microsoft.com/sharepoint" target="_blank"><img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white"/></a>
 <a href="https://azure.microsoft.com/products/devops" target="_blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white"/></a>
@@ -47,11 +80,11 @@
 
 <br><strong>AI & ML Tools</strong><br>
 <a href="https://aws.amazon.com/sagemaker/" target="_blank"><img src="https://img.shields.io/badge/AWS_SageMaker-232F3E?style=flat&logo=amazonaws&logoColor=white"/></a>
-<a href="https://azure.microsoft.com/products/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
+<a href="https://azure.microsoft.com/products/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
 <a href="https://www.databricks.com/product/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Databricks_ML-FF3621?style=flat&logo=databricks&logoColor=white"/></a>
 
 <br><strong>Microsoft Collaboration & Office</strong><br>
-<a href="https://www.microsoft.com/en/microsoft-teams" target="_blank"><img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white"/></a>
+<a href="https://www.microsoft.com/en/microsoft-teams" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white"/></a>
 <a href="https://www.microsoft.com/microsoft-365/sharepoint/collaboration" target="_blank"><img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white"/></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank"><img src="https://img.shields.io/badge/OneDrive-0078D4?style=flat&logo=microsoftonedrive&logoColor=white"/></a>
 <a href="https://outlook.live.com/" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
@@ -66,9 +99,14 @@
 
 </p>
 
-</p>
 
-</p>
+
+
+
+
+
+
+
 
 <h2>BI Dashboards</h2>
 <p>A quick overview of my BI work across Power BI, Looker Studio, and Tableau. Each repo includes complete dashboards with strong data modeling, analytics, and visualization.</p>
