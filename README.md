@@ -97,11 +97,3 @@
 <p><a href="https://github.com/karthic180/tableau_dashboards" target="_blank"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat-square&logo=tableau&logoColor=white" alt="Tableau GitHub Repository"/></a></p>
 <p>Analytical stories with advanced charting and intuitive layouts.</p>
 <p><img src="https://img.shields.io/badge/Category-Data_Visualization-9C27B0?style=flat-square"/> <img src="https://img.shields.io/badge/Focus-OTT_Analytics-FF9800?style=flat-square"/> <img src="https://img.shields.io/badge/Skills-Data_Prep_|_ETL_|_Viz-4CAF50?style=flat-square"/></p>
-
-<h2>Connect with Me</h2>
-<p align="left">
-<a href="https://kaggle.com/karthic180" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="Karthic on Kaggle"/></a>
-<a href="https://linktr.ee/karthic180" target="blank"><img src="https://cdn.prod.website-files.com/666255f7f2126f4e8cec6f8f/66634daccb34e6d65a41c76d_download.svg" height="30" width="40" alt="Karthic Linktree"/></a>
-</p>
-
-<p><a href="https://github.com/karthic180" target="_blank"><img src="https://img.shields.io/badge/View_All_Projects_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
