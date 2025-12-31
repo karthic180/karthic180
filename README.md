@@ -30,22 +30,11 @@
 <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
 
 <br><strong>Power Platform</strong><br>
-<a href="https://powerapps.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white"/>
-</a>
-<a href="https://powerautomate.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/>
-</a>
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-</a>
-<a href="https://powervirtualagents.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Power_Virtual_Agents-0A5BD7?style=flat&logo=botframework&logoColor=white"/>
-</a>
-<a href="https://learn.microsoft.com/power-platform/power-pages/" target="_blank">
-  <img src="https://img.shields.io/badge/Power_Pages-2E77BB?style=flat&logo=microsoft&logoColor=white"/>
-</a>
-
+<a href="https://powerapps.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white"/></a>
+<a href="https://powerautomate.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
+<a href="https://powervirtualagents.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_Virtual_Agents-0A5BD7?style=flat&logo=botframework&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/power-platform/power-pages/" target="_blank"><img src="https://img.shields.io/badge/Power_Pages-2E77BB?style=flat&logo=microsoft&logoColor=white"/></a>
 
 <br><strong>Cloud & Platforms</strong><br>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/></a>
@@ -61,13 +50,15 @@
 <a href="https://azure.microsoft.com/products/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
 <a href="https://www.databricks.com/product/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Databricks_ML-FF3621?style=flat&logo=databricks&logoColor=white"/></a>
 
-<br><strong>Collaboration</strong><br>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/></a>
-<a href="https://trello.com/" target="_blank"><img src="https://img.shields.io/badge/Trello-026AA7?style=flat&logo=trello&logoColor=white"/></a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"/></a>
-<a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"/></a>
+<br><strong>Microsoft Collaboration & Office</strong><br>
 <a href="https://www.microsoft.com/en/microsoft-teams" target="_blank"><img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white"/></a>
-<a href="https://zoom.us/" target="_blank"><img src="https://img.shields.io/badge/Zoom-0B5CFF?style=flat&logo=zoom&logoColor=white"/></a>
+<a href="https://www.microsoft.com/microsoft-365/sharepoint/collaboration" target="_blank"><img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank"><img src="https://img.shields.io/badge/OneDrive-0078D4?style=flat&logo=microsoftonedrive&logoColor=white"/></a>
+<a href="https://outlook.live.com/" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"/></a>
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/></a>
+<a href="https://www.microsoft.com/microsoft-365/word" target="_blank"><img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white"/></a>
+<a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank"><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a>
+<a href="https://www.microsoft.com/microsoft-365/onenote" target="_blank"><img src="https://img.shields.io/badge/OneNote-7719AA?style=flat&logo=microsoftonenote&logoColor=white"/></a>
 
 <br><strong>Files & Data</strong><br>
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/></a>
@@ -75,7 +66,7 @@
 
 </p>
 
-
+</p>
 
 </p>
 
