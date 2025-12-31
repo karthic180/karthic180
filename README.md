@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 <p>I specialise in building clean data models, writing efficient DAX and SQL, and designing dashboards that answer real business questions. My experience spans BI development, data analysis, cloud platforms, and front‑end technologies that support modern analytics.</p>
 
-<strong>Core Skills</strong><br>
+<strong>Technical Skills, Tools & Experience</strong><br>
 
 <a href="https://www.microsoft.com/en-us/power-platform" target="_blank"><img src="https://img.shields.io/badge/Data_Analysis-0A66C2?style=flat&logo=googleanalytics&logoColor=white"/></a>
 <a href="https://www.microsoft.com/en-us/power-platform" target="_blank"><img src="https://img.shields.io/badge/Insight_&_Impact_Reporting-4A154B?style=flat"/></a>
@@ -38,7 +38,7 @@
 
 <br><br>
 
-<strong>BI Tools</strong><br>
+<strong>Business Intelligence</strong><br>
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
 <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat&logo=tableau&logoColor=white"/></a>
 <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white"/></a>
