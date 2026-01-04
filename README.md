@@ -86,53 +86,85 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 ## My Projects
 
 ## BI Dashboards
+[Power BI](https://github.com/karthic180/power-bi-dashboard)
 
-A curated overview of my Business Intelligence work across Power BI, Looker Studio, and Tableau. Each repository contains end-to-end dashboards with strong data modelling, analytics, and clear visual storytelling.
-
-[Power BI](https://github.com/karthic180/power-bi-dashboards)
-
-[![Power BI Dashboards](https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/karthic180/power-bi-dashboards)
+[![Power BI Dashboards](https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat\&logo=powerbi\&logoColor=black)](https://github.com/karthic180/power-bi-dashboards)
 ![DAX](https://img.shields.io/badge/DAX-000000?style=flat)
 ![Data Modelling](https://img.shields.io/badge/Data_Modelling-00599C?style=flat)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat)
 ![Interactive Reporting](https://img.shields.io/badge/Interactive_Reporting-03A9F4?style=flat)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-795548?style=flat)
 
+---
+
+## Featured Power BI Dashboards
+
+### **UK Rail Dashboard**
+
+* **Key Insights**: Station traffic, revenue patterns, and delay causes.
+* **Business Questions**: What stations drive the most revenue? What are the common causes of delays?
+
+### **UK Broadband Performance Dashboard**
+
+* **Key Insights**: Comparison of broadband speeds and value across regions.
+* **Business Questions**: Which providers offer the best speeds and value? How do speeds differ in urban vs rural areas?
+
+---
+
 [Looker Studio](https://github.com/karthic180/lookerstudio-dashboards)
 
-[![Looker Studio Dashboards](https://img.shields.io/badge/Looker_Studio_Dashboards-4285F4?style=flat&logo=looker&logoColor=white)](https://github.com/karthic180/lookerstudio-dashboards)
+[![Looker Studio Dashboards](https://img.shields.io/badge/Looker_Studio_Dashboards-4285F4?style=flat\&logo=looker\&logoColor=white)](https://github.com/karthic180/lookerstudio-dashboards)
 ![BigQuery SQL](https://img.shields.io/badge/BigQuery_SQL-4285F4?style=flat)
 ![Blended Data](https://img.shields.io/badge/Blended_Data_Sources-1A73E8?style=flat)
 ![Calculated Fields](https://img.shields.io/badge/Calculated_Fields-0F9D58?style=flat)
 ![Automated Reporting](https://img.shields.io/badge/Automated_Reporting-03A9F4?style=flat)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-9C27B0?style=flat)
 
+---
+
+## Featured Looker Studio Dashboards
+
+### **Telco Customer Churn Dashboard**
+
+* **Key Insights**: Month-to-month contracts show high churn, and fibre internet customers have higher churn rates. Senior citizens and single customers are at higher risk.
+* **Business Questions Answered**: Which customer segments have the highest churn risk? How do monthly charges and tenure impact churn?
+
+---
+
 [Tableau](https://github.com/karthic180/tableau_dashboards)
 
-[![Tableau Dashboards](https://img.shields.io/badge/Tableau_Dashboards-005F9E?style=flat&logo=tableau&logoColor=white)](https://github.com/karthic180/tableau_dashboards)
+[![Tableau Dashboards](https://img.shields.io/badge/Tableau_Dashboards-005F9E?style=flat\&logo=tableau\&logoColor=white)](https://github.com/karthic180/tableau_dashboards)
 ![Data Preparation](https://img.shields.io/badge/Data_Preparation-4CAF50?style=flat)
 ![ETL](https://img.shields.io/badge/ETL-795548?style=flat)
 ![Advanced Visuals](https://img.shields.io/badge/Advanced_Visuals-03A9F4?style=flat)
 ![Analytical Storytelling](https://img.shields.io/badge/Analytical_Storytelling-FF9800?style=flat)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-9C27B0?style=flat)
 
+## Featured Tableau Dashboards
+
+### **OTT Viewer Drop-off & Retention Dashboard**
+
+* **Key Insights**: Longer episodes have higher drop-off rates. Early-season episodes retain more viewers. Thrillers & dramas have stronger completion rates..
+* **Business Questions Answered**: hich episodes have the highest drop-off? How do episode length and season progression affect retention?
+
+---
 
 
-#  **Application Support & IT System Administration**
+#  **App Support**
 
-A strong foundation in **enterprise application support** ensures the BI and analytics solutions I build are **stable, secure, and production‑ready**.
+A strong foundation in enterprise application support ensures the BI and analytics solutions I build are stable, secure, and production‑ready.
 
-GitHub – https://github.com/karthic180/appsupport/blob/main/README.md 
+[![App Support Repository](https://img.shields.io/badge/App_Support-Repository-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/karthic180/appsupport/blob/main/README.md)
 
 ---
 
 ##  **Core Capabilities**
 
-- Troubleshooting & supporting **REST APIs**  
-- Identity & access management with **Microsoft Entra ID**  
-- **Google Workspace** administration & operational support  
-- Endpoint management & device compliance (**MD‑102 aligned**)  
-- Identity governance & conditional access (**SC‑300 aligned**)  
+- Troubleshooting & supporting REST APIs  
+- Identity & access management with Microsoft Entr
+- Google Workspace administration & operational support  
+- Endpoint management & device compliance
+- Identity governance & conditional access 
 - Monitoring, logging & proactive system health checks  
 - Incident resolution, RCA & structured issue triage  
 - Clear communication with technical & non‑technical teams  
