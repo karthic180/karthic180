@@ -41,26 +41,32 @@ I specialise in building reliable data models, writing efficient SQL and DAX, an
 <a href="https://www.unicef.org/evaluation/monitoring"><img src="https://img.shields.io/badge/Survey,_Monitoring_&_Impact_Analysis-1A73E8?style=flat"/></a>
 
 ### Technical Skills, Tools, and Experience
-
-**Analytics & BI:** Data analysis, KPI frameworks, monitoring & survey reporting, data storytelling, executive reporting  
-**SQL & Modelling:** Advanced SQL, query optimisation, star & semantic models, BigQuery, SQL Server, PostgreSQL  
-**BI Tools:** Power BI (DAX, Power Query), Looker Studio, Looker (GCP), Tableau  
-**Data Engineering:** ETL design, scalable pipelines, Databricks, Spark SQL, Delta Lake, Alteryx  
-**Power Platform & Automation:** Power BI, Power Apps, Power Automate, Copilot Studio  
-**Cloud Platforms:** Azure, Google Cloud, AWS  
-**Languages:** SQL, DAX, JavaScript, C#, C++
-
-<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
-<a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat"/></a>
-<a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat"/></a>
-<a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat"/></a>
-<a href="https://docs.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat"/></a>
-<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat"/></a>
-<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat"/></a>
-<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat"/></a>
-<a href="https://www.w3schools.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat"/></a>
-<a href="https://learn.microsoft.com/power-bi/"><img src="https://img.shields.io/badge/DAX-000000?style=flat"/></a>
-
+<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/></a>
+<a href="https://learn.microsoft.com/power-bi/"><img src="https://img.shields.io/badge/DAX-000000?style=flat" alt="DAX"/></a>
+<a href="https://learn.microsoft.com/power-query/"><img src="https://img.shields.io/badge/Power_Query-217346?style=flat&logo=powerquery&logoColor=white" alt="Power Query"/></a>
+<a href="https://en.wikipedia.org/wiki/Star_schema"><img src="https://img.shields.io/badge/Data_Modeling-00599C?style=flat" alt="Data Modeling"/></a>
+<a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+<a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></a>
+<a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="BigQuery"/></a>
+<a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white" alt="Looker Studio"/></a>
+<a href="https://cloud.google.com/looker"><img src="https://img.shields.io/badge/Looker_(GCP)-1A73E8?style=flat" alt="Looker (GCP)"/></a>
+<a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat&logo=tableau&logoColor=white" alt="Tableau"/></a>
+<a href="https://docs.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks"/></a>
+<a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache_Spark-FF3621?style=flat&logo=apachespark&logoColor=white" alt="Spark"/></a>
+<a href="https://docs.delta.io/"><img src="https://img.shields.io/badge/Delta_Lake-FF3621?style=flat" alt="Delta Lake"/></a>
+<a href="https://help.alteryx.com/"><img src="https://img.shields.io/badge/Alteryx-1F8ACB?style=flat&logo=alteryx&logoColor=white" alt="Alteryx"/></a>
+<a href="https://www.storytellingwithdata.com/"><img src="https://img.shields.io/badge/Data_Storytelling-FF4081?style=flat" alt="Data Storytelling"/></a>
+<a href="https://www.klipfolio.com/resources/articles/kpi-examples"><img src="https://img.shields.io/badge/KPI_Frameworks-FF6F00?style=flat" alt="KPI Frameworks"/></a>
+<a href="https://powerapps.microsoft.com/"><img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white" alt="Power Apps"/></a>
+<a href="https://powerautomate.microsoft.com/"><img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white" alt="Power Automate"/></a>
+<a href="https://copilotstudio.microsoft.com/"><img src="https://img.shields.io/badge/Copilot_Studio-0A5BD7?style=flat" alt="Copilot Studio"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
+<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP"/></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#"/></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/></a>
 
 # My Projects
 
