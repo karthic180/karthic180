@@ -83,139 +83,43 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/></a>
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
 
-## My Projects
+---
 
-## BI Dashboards
-[Power BI](https://github.com/karthic180/power-bi-dashboard)
+# My Projects
 
-[![Power BI Dashboards](https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat\&logo=powerbi\&logoColor=black)](https://github.com/karthic180/power-bi-dashboards)
+## **Power BI**
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat)
 ![DAX](https://img.shields.io/badge/DAX-000000?style=flat)
-![Data Modelling](https://img.shields.io/badge/Data_Modelling-00599C?style=flat)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat)
-![Interactive Reporting](https://img.shields.io/badge/Interactive_Reporting-03A9F4?style=flat)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-795548?style=flat)
+![Power Query](https://img.shields.io/badge/PowerQuery-217346?style=flat)
+![Data Modeling](https://img.shields.io/badge/DataModeling-00599C?style=flat)
+
+🔗 [Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards)
 
 ---
 
-## Featured Power BI Dashboards
+## **Looker Studio & BigQuery**
 
-#  **UK Rail Dashboard**
-[![View Dashboard](https://img.shields.io/badge/View_Dashboard-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/karthic180/power-bi-dashboards/blob/main/National%20Rail%20UK%20Train%20Ticket%20Data.pdf)
+![Looker](https://img.shields.io/badge/LookerStudio-1A73E8?style=flat)
+![Big Query](https://img.shields.io/badge/BigQuery-4285F4?style=flat)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 
-### **Dataset (Kaggle)**
-- National Rail UK Train Ticket Data  
-  https://www.kaggle.com/datasets/motsimaslam/national-rail-uk-train-ticket-data 
----
-
-### **Key Insights**
-- Station traffic patterns across regions and time.
-- Revenue distribution by station, route, and ticket type.
-- Delay frequency and the most common operational causes.
-
-### **Business Questions**
-- Which stations generate the highest revenue?
-- What are the most common causes of delays?
-- How do traffic and delays vary by time of day, route, or region?
+🔗 [LookerStudio Dashboards](https://github.com/karthic180/lookerstudio-dashboards)
 
 ---
 
-#  **UK Broadband Performance Dashboard**
-[![View Dashboard](https://img.shields.io/badge/View_Dashboard-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/karthic180/power-bi-dashboards/blob/main/BB%20PBI%20Mock.pdf
-)
-### **Dataset (Ofcom)**
-- UK Fixed-Line Broadband Performance (Ofcom)  
-  https://www.data.gov.uk/dataset/dfe843da-06ca-4680-9ba0-fbb27319e402/uk-fixed-line-broadband-performance 
+## **Tableau**
 
----
-
-### **Key Insights**
-- Broadband speed comparison across UK regions.
-- Provider performance differences in speed, latency, and value.
-- Urban vs rural broadband performance gaps.
-
-### **Business Questions**
-- Which providers offer the best speeds and value?
-- How do broadband speeds differ between urban and rural areas?
-- Which regions experience the slowest or most inconsistent performance?
-
----
-
-
-[Looker Studio](https://github.com/karthic180/lookerstudio-dashboards)
-
-[![Looker Studio Dashboards](https://img.shields.io/badge/Looker_Studio_Dashboards-4285F4?style=flat\&logo=looker\&logoColor=white)](https://github.com/karthic180/lookerstudio-dashboards)
-![BigQuery SQL](https://img.shields.io/badge/BigQuery_SQL-4285F4?style=flat)
-![Blended Data](https://img.shields.io/badge/Blended_Data_Sources-1A73E8?style=flat)
-![Calculated Fields](https://img.shields.io/badge/Calculated_Fields-0F9D58?style=flat)
-![Automated Reporting](https://img.shields.io/badge/Automated_Reporting-03A9F4?style=flat)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-9C27B0?style=flat)
-
----
-
-## Featured Looker Studio Dashboards
-
-#  **Telco Customer Churn Dashboard**
-[![View Dashboard](https://img.shields.io/badge/View_Dashboard-0A66C2?style=flat&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/91948544-0cf8-45cd-b611-700cea9301fe)
-
-
-### **Dataset (Kaggle)**
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-
----
-
-### **Key Insights**
-- Month‑to‑month contract customers show significantly higher churn.
-- Fibre internet customers churn more frequently than DSL or no‑internet customers.
-- Senior citizens and customers without partners or dependents are at higher churn risk.
-- Higher monthly charges correlate with increased churn, especially for short‑tenure customers.
-
----
-
-### **Business Questions Answered**
-- Which customer segments have the highest churn risk?
-- How do monthly charges and tenure influence churn likelihood?
-- Do contract types or internet service types affect churn?
-- Which demographic groups are most vulnerable to leaving?
-
----
-
-
-[Tableau](https://github.com/karthic180/tableau_dashboards)
-
-[![Tableau Dashboards](https://img.shields.io/badge/Tableau_Dashboards-005F9E?style=flat\&logo=tableau\&logoColor=white)](https://github.com/karthic180/tableau_dashboards)
-![Data Preparation](https://img.shields.io/badge/Data_Preparation-4CAF50?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=flat)
 ![ETL](https://img.shields.io/badge/ETL-795548?style=flat)
-![Advanced Visuals](https://img.shields.io/badge/Advanced_Visuals-03A9F4?style=flat)
-![Analytical Storytelling](https://img.shields.io/badge/Analytical_Storytelling-FF9800?style=flat)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-9C27B0?style=flat)
+![Data Viz](https://img.shields.io/badge/DataViz-9C27B0?style=flat)
 
-## Featured Tableau Dashboards
-
-#  **OTT Viewer Drop-off & Retention Dashboard**
-
-[![View Dashboard](https://img.shields.io/badge/View_Dashboard-005F9E?style=flat&logo=tableau&logoColor=white)](https://github.com/karthic180/tableau_dashboards/blob/main/OTT_Dashboard_Tableau.pdf)
-
-
-### **Dataset (Kaggle)**  
-https://www.kaggle.com/datasets/eklavya16/ott-viewer-drop-off-and-retention-risk-dataset
+🔗 [Tableau Dashboards](https://github.com/karthic180/tableau_dashboards)
 
 ---
 
-### **Key Insights**
-- Longer episodes show higher viewer drop‑off rates.
-- Early‑season episodes retain a larger share of viewers than later episodes.
-- Thrillers and dramas consistently achieve stronger completion rates.
-- Viewer retention dips sharply after pacing slowdowns or filler‑style episodes.
 
----
 
-### **Business Questions Answered**
-- Which episodes have the highest drop‑off?
-- How do episode length and season progression affect retention?
-- Which genres maintain the strongest completion rates?
-- At what point in an episode do viewers typically disengage?
-
----
 
 #  **App Support**
 
