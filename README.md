@@ -68,6 +68,19 @@ I specialise in building reliable data models, writing efficient SQL and DAX, an
 <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#"/></a>
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/></a>
 
+Certifications & Badges 
+
+<a href="https://www.alteryx.com/"><img src="https://img.shields.io/badge/Alteryx_Designer_Core_&_Cloud_Core-1F8ACB?style=flat&logo=alteryx&logoColor=white"/></a>
+<a href="https://grow.google/certificates/data-analytics/"><img src="https://img.shields.io/badge/Google_Cloud_Data_Analytics-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+<a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery_Data_Warehouse-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL_Essentials_v16-336791?style=flat&logo=postgresql&logoColor=white"/></a>
+<a href="https://www.datadoghq.com/learning/"><img src="https://img.shields.io/badge/Datadog_Fundamentals_I-632CA6?style=flat&logo=datadog&logoColor=white"/></a>
+<a href="https://www.okta.com/services/certification/"><img src="https://img.shields.io/badge/Okta_Certified_Professional-007DC1?style=flat&logo=okta&logoColor=white"/></a>
+<a href="https://jumpcloud.com/"><img src="https://img.shields.io/badge/JumpCloud_Core_&_Advanced-00B388?style=flat&logo=jumpcloud&logoColor=white"/></a>
+<a href="https://www.jamf.com/training/"><img src="https://img.shields.io/badge/Jamf_Admin-005EB8?style=flat&logo=jamf&logoColor=white"/></a>
+
+
+
 # My Projects
 
 ## **Power BI**
