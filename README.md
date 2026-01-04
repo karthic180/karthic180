@@ -11,6 +11,7 @@
   - [Data & Cloud Platforms](#data--cloud-platforms)
   - [Data Engineering & Processing](#data-engineering--processing)
   - [Query Languages & Scripting](#query-languages--scripting)
+  - [Programming Languages](#programming-languages)
   - [Identity, Device & API Management](#identity-device--api-management)
   - [Web & Markup](#web--markup)
 - [My Projects](#my-projects)
@@ -77,12 +78,23 @@ My experience includes:
 * Communicating insights to technical and non-technical stakeholders
 
 ---
-
-## My Tech Stack & Tools
+## **My Tech Stack & Tools**
 
 ### **BI & Analytics**
 
 <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a> <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat&logo=google&logoColor=white"/></a> <a href="https://cloud.google.com/looker"><img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a> <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat&logo=tableau&logoColor=white"/></a>
+
+---
+
+### **Programming Languages**
+
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a> <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/></a> <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
+
+---
+
+### **Query Languages & Scripting**
+
+<a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a> <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a> <a href="https://learn.microsoft.com/power-query/m-language/"><img src="https://img.shields.io/badge/Power_Query_M-217346?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://learn.microsoft.com/azure/data-explorer/kusto/query/"><img src="https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoft&logoColor=white"/></a>
 
 ---
 
@@ -104,12 +116,6 @@ My experience includes:
 
 ---
 
-### **Query Languages & Scripting**
-
-<a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a> <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a> <a href="https://learn.microsoft.com/power-query/m-language/"><img src="https://img.shields.io/badge/Power_Query_M-217346?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://learn.microsoft.com/azure/data-explorer/kusto/query/"><img src="https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoft&logoColor=white"/></a>
-
----
-
 ### **Identity, Device & API Management**
 
 <a href="https://learn.microsoft.com/entra/"><img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://learn.microsoft.com/mem/intune/"><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/Jamf-00ADEF?style=flat&logo=jamf&logoColor=white"/></a> <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white"/></a>
@@ -121,6 +127,7 @@ My experience includes:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
 
 ---
+
 
 ## My Projects
 
