@@ -148,7 +148,7 @@ Business-focused dashboards featuring semantic models, performance-optimised DAX
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 
-🔗 **[Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards)**
+🔗 **[Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)**
 Cloud-native dashboards built on BigQuery, emphasising scalability and efficient SQL.
 
 ---
@@ -158,7 +158,7 @@ Cloud-native dashboards built on BigQuery, emphasising scalability and efficient
 ![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=flat)
 ![Data Viz](https://img.shields.io/badge/Data_Visualisation-9C27B0?style=flat)
 
- **[Tableau Dashboards](https://github.com/karthic180/tableau_dashboards)**
+ **[Tableau Dashboards](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)**
 Interactive analytics with a strong focus on insight discovery and storytelling.
 
 ---
