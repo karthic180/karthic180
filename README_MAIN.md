@@ -116,6 +116,15 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 
 🔗 [Tableau Dashboards](https://github.com/karthic180/tableau_dashboards)
 
+## Featured BI Dashboards
+[UK Rail Performance (Power BI)  ](https://github.com/karthic180/power-bi-dashboards/blob/main/README.md)
+
+[UK Broadband Performance (Power BI)  ](https://github.com/karthic180/power-bi-dashboards/blob/main/README.md)
+
+[Telco Customer Churn (Looker + BigQuery)  ](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)
+
+[OTT Viewer Retention (Tableau)](https://github.com/karthic180/tableau_dashboards/blob/main/README.md)
+
 ---
 
 
