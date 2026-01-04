@@ -137,7 +137,7 @@ My experience includes:
 ![DAX](https://img.shields.io/badge/DAX-000000?style=flat)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-00599C?style=flat)
 
-🔗 **[Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards)**
+ **[Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)**
 Business-focused dashboards featuring semantic models, performance-optimised DAX, and clear KPI design.
 
 ---
@@ -148,7 +148,7 @@ Business-focused dashboards featuring semantic models, performance-optimised DAX
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 
-🔗 **[Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)**
+ **[Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)**
 Cloud-native dashboards built on BigQuery, emphasising scalability and efficient SQL.
 
 ---
@@ -169,7 +169,7 @@ Interactive analytics with a strong focus on insight discovery and storytelling.
 
 [UK Broadband Performance(Power BI)](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)
 
-[Telco Customer Churn(Looker Studio + BigQuery)](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README_Looker.md)
+[Telco Customer Churn(Looker Studio + BigQuery)](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)
 
 [OTT Viewer Retention(Tableau)](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)
 
