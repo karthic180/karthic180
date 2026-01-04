@@ -34,8 +34,7 @@ My experience includes:
 * Cloud-based analytics platforms
 * Data modelling, transformation, and governance
 * Production-ready analytics supported by strong operational foundations
-
-I care deeply about data quality, performance, and storytelling — not just visuals.
+* I care deeply about data quality, performance, and storytelling — not just visuals.
 ---
 
 ## **Core Skills**
