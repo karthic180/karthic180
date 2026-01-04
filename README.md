@@ -115,3 +115,29 @@ A curated overview of my Business Intelligence work across Power BI, Looker Stud
 ![Advanced Visuals](https://img.shields.io/badge/Advanced_Visuals-03A9F4?style=flat)
 ![Analytical Storytelling](https://img.shields.io/badge/Analytical_Storytelling-FF9800?style=flat)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-9C27B0?style=flat)
+
+
+#  **Application Support & IT System Administration**
+
+A strong foundation in **enterprise application support** ensures the BI and analytics solutions I build are stable, secure, and production‑ready.
+https://github.com/karthic180/appsupport/main
+---
+
+##  **Core Capabilities**
+- Troubleshooting and supporting **REST APIs** using Postman  
+- Identity & access management with **Microsoft Entra (Azure AD)**  
+- Administration and support across **Google Workspace**  
+- Endpoint management, device compliance, and policy troubleshooting (**MD‑102 aligned**)  
+- Identity governance, authentication, and conditional access (**SC‑300 aligned**)  
+- Monitoring, logging, and system health checks  
+- Root‑cause analysis, incident resolution, and issue triage  
+- Clear communication with technical and non‑technical stakeholders  
+
+---
+
+## **Supported Technologies & Tools**
+[![Postman](https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white)](https://workspace.google.com/)
+[![Microsoft Entra](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/entra/)
+[![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/mem/intune/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
