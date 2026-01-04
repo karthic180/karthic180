@@ -99,17 +99,47 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 
 ## Featured Power BI Dashboards
 
-### **UK Rail Dashboard**
+#  **UK Rail Dashboard**
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/karthic180/power-bi-dashboards/blob/main/National%20Rail%20UK%20Train%20Ticket%20Data.pdf)
 
-* **Key Insights**: Station traffic, revenue patterns, and delay causes.
-* **Business Questions**: What stations drive the most revenue? What are the common causes of delays?
+### **Dataset (Kaggle)**
+- National Rail UK Train Ticket Data  
+  https://www.kaggle.com/datasets/motsimaslam/national-rail-uk-train-ticket-data 
+---
 
-### **UK Broadband Performance Dashboard**
+### **Key Insights**
+- Station traffic patterns across regions and time.
+- Revenue distribution by station, route, and ticket type.
+- Delay frequency and the most common operational causes.
 
-* **Key Insights**: Comparison of broadband speeds and value across regions.
-* **Business Questions**: Which providers offer the best speeds and value? How do speeds differ in urban vs rural areas?
+### **Business Questions**
+- Which stations generate the highest revenue?
+- What are the most common causes of delays?
+- How do traffic and delays vary by time of day, route, or region?
 
 ---
+
+#  **UK Broadband Performance Dashboard**
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-0A66C2?style=flat&logo=github&logoColor=white)](https://github.com/karthic180/power-bi-dashboards/blob/main/BB%20PBI%20Mock.pdf
+)
+### **Dataset (Ofcom)**
+- UK Fixed-Line Broadband Performance (Ofcom)  
+  https://www.data.gov.uk/dataset/dfe843da-06ca-4680-9ba0-fbb27319e402/uk-fixed-line-broadband-performance 
+
+---
+
+### **Key Insights**
+- Broadband speed comparison across UK regions.
+- Provider performance differences in speed, latency, and value.
+- Urban vs rural broadband performance gaps.
+
+### **Business Questions**
+- Which providers offer the best speeds and value?
+- How do broadband speeds differ between urban and rural areas?
+- Which regions experience the slowest or most inconsistent performance?
+
+---
+
 
 [Looker Studio](https://github.com/karthic180/lookerstudio-dashboards)
 
@@ -124,12 +154,31 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 
 ## Featured Looker Studio Dashboards
 
-### **Telco Customer Churn Dashboard**
+#  **Telco Customer Churn Dashboard**
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-0A66C2?style=flat&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/91948544-0cf8-45cd-b611-700cea9301fe)
 
-* **Key Insights**: Month-to-month contracts show high churn, and fibre internet customers have higher churn rates. Senior citizens and single customers are at higher risk.
-* **Business Questions Answered**: Which customer segments have the highest churn risk? How do monthly charges and tenure impact churn?
+
+### **Dataset (Kaggle)**
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ---
+
+### **Key Insights**
+- Month‑to‑month contract customers show significantly higher churn.
+- Fibre internet customers churn more frequently than DSL or no‑internet customers.
+- Senior citizens and customers without partners or dependents are at higher churn risk.
+- Higher monthly charges correlate with increased churn, especially for short‑tenure customers.
+
+---
+
+### **Business Questions Answered**
+- Which customer segments have the highest churn risk?
+- How do monthly charges and tenure influence churn likelihood?
+- Do contract types or internet service types affect churn?
+- Which demographic groups are most vulnerable to leaving?
+
+---
+
 
 [Tableau](https://github.com/karthic180/tableau_dashboards)
 
@@ -142,13 +191,31 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 
 ## Featured Tableau Dashboards
 
-### **OTT Viewer Drop-off & Retention Dashboard**
+#  **OTT Viewer Drop-off & Retention Dashboard**
 
-* **Key Insights**: Longer episodes have higher drop-off rates. Early-season episodes retain more viewers. Thrillers & dramas have stronger completion rates..
-* **Business Questions Answered**: hich episodes have the highest drop-off? How do episode length and season progression affect retention?
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-005F9E?style=flat&logo=tableau&logoColor=white)](https://github.com/karthic180/tableau_dashboards/blob/main/OTT_Dashboard_Tableau.pdf)
+
+
+### **Dataset (Kaggle)**  
+https://www.kaggle.com/datasets/eklavya16/ott-viewer-drop-off-and-retention-risk-dataset
 
 ---
 
+### **Key Insights**
+- Longer episodes show higher viewer drop‑off rates.
+- Early‑season episodes retain a larger share of viewers than later episodes.
+- Thrillers and dramas consistently achieve stronger completion rates.
+- Viewer retention dips sharply after pacing slowdowns or filler‑style episodes.
+
+---
+
+### **Business Questions Answered**
+- Which episodes have the highest drop‑off?
+- How do episode length and season progression affect retention?
+- Which genres maintain the strongest completion rates?
+- At what point in an episode do viewers typically disengage?
+
+---
 
 #  **App Support**
 
