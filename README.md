@@ -1,3 +1,17 @@
+## Contents
+
+- [Hi and Welcome](#hi-and-welcome)
+- [About Me](#about-me)
+- [My Projects](#my-projects)
+  - [Power BI](#power-bi)
+  - [Looker Studio & BigQuery](#looker-studio--bigquery)
+  - [Tableau](#tableau)
+- [Featured BI Dashboards](#featured-bi-dashboards)
+- [App Support](#app-support)
+- [Core Capabilities](#core-capabilities)
+- [Supported Technologies & Tools](#supported-technologies--tools)
+
+
 ## Hi and Welcome
 
 I’m Karthic, a Business Intelligence and Data Analyst focused on transforming data into clear, actionable insights. This space showcases my work across Power BI, Looker Studio, Tableau, SQL, and supporting technologies, including cloud platforms and web fundamentals.
@@ -94,7 +108,7 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 ![Power Query](https://img.shields.io/badge/PowerQuery-217346?style=flat)
 ![Data Modeling](https://img.shields.io/badge/DataModeling-00599C?style=flat)
 
-🔗 [Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards)
+ [Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards)
 
 ---
 
@@ -134,7 +148,7 @@ Hands-on experience with cloud data and analytics services across Azure, Google 
 
 A strong foundation in enterprise application support ensures the BI and analytics solutions I build are stable, secure, and production‑ready.
 
-[![App Support Repository](https://img.shields.io/badge/App_Support-Repository-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/karthic180/appsupport/blob/main/README.md)
+[![App Support Repo](https://img.shields.io/badge/App_Support-Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/karthic180/appsupport/blob/main/README.md)
 
 ---
 
