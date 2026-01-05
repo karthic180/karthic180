@@ -23,7 +23,6 @@
 - [Core Capabilities](#core-capabilities)
 - [Supported Technologies & Tools](#supported-technologies--tools)
 
-
 ---
 
 ## Hi and Welcome
