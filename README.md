@@ -36,7 +36,14 @@ This portfolio highlights my work across Power BI, Looker Studio, Tableau, and S
 
 ## About Me
 
-I specialise in designing robust data models, writing high-performance SQL and DAX, and delivering insight-driven dashboards aligned to business outcomes.
+I specialise in transforming complex data into clear insights using tools and technologies that matter most to businesses. 
+
+My core strengths are:
+
+Advanced Data Modeling & Transformation: Expertise in building robust semantic and dimensional models (e.g., Star Schemas, Fact/Dimension Tables) to support high-performing dashboards.
+Data Governance & Quality: Strong focus on ensuring that data is accurate, consistent, and well-governed throughout the reporting process.
+SQL & DAX Mastery: Advanced skills in SQL, including PostgreSQL, T-SQL, and performance optimization, alongside DAX for efficient and scalable reporting.
+Cloud Platforms & BI Tools: Extensive hands-on experience with Power BI, BigQuery, Looker Studio, Azure, and Google Cloud — enabling seamless cloud-native analytics solutions.
 
 My experience includes:
 
