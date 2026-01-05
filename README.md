@@ -76,13 +76,21 @@ My experience includes:
 ---
 
 ## **Experience Focus**
+Throughout my career, I’ve been focused on transforming raw data into actionable insights that drive business success. My expertise spans the full spectrum of BI development:
 
-* Translating business requirements into clear metrics, KPIs, and executive-ready dashboards
-* Designing scalable semantic and dimensional models (star schemas, fact/dimension tables)
-* Writing efficient, production-grade SQL with CTEs, window functions, and performance tuning
-* Building end-to-end analytics workflows from raw data ingestion to insight delivery
-* Ensuring data accuracy, consistency, and governance across reporting layers
-* Communicating insights to technical and non-technical stakeholders
+Business Metrics & KPIs: Translating business objectives into clear, measurable metrics and KPIs, and delivering executive-ready dashboards that provide actionable insights.
+
+End-to-End BI Solutions: Building scalable, end-to-end workflows that span data ingestion, ETL processes, and reporting to ensure seamless and accurate insights delivery.
+
+Cloud Analytics Platforms: Leveraging industry-leading platforms such as Google BigQuery, Azure Synapse, and Databricks to design and implement high-performance data solutions for cloud-first analytics.
+
+Advanced SQL: Writing efficient, production-grade SQL queries, utilizing CTEs, window functions, and performance tuning techniques to support complex reporting and data transformation workflows.
+
+Dimensional & Semantic Data Models: Designing scalable, high-performance data models such as star schemas and fact/dimension tables, ensuring the integrity and accessibility of business-critical data.
+
+Data Governance & Accuracy: Ensuring data consistency, quality, and governance throughout all reporting layers, enabling accurate and reliable business decisions.
+
+Stakeholder Communication: Effectively translating complex data insights into clear, actionable recommendations for both technical and non-technical stakeholders.
 
 ---
 ## **My Tech Stack & Tools**
