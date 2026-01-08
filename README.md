@@ -145,77 +145,69 @@ Stakeholder Communication: Effectively translating complex data insights into cl
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
 
 ---
+##  My Projects
 
+---
 
-## My Projects
+### 📊 **Power BI**
 
-### **Power BI**
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat)
-![DAX](https://img.shields.io/badge/DAX-000000?style=flat)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-00599C?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Performance--Optimised-black?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-00599C?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-
- **[Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)**
+** [Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)**
 Business-focused dashboards featuring semantic models, performance-optimised DAX, and clear KPI design.
 
 ---
 
-### **Looker Studio & BigQuery**
+### 📈 **Looker Studio & BigQuery**
 
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-1A73E8?style=flat\&logo=googleanalytics\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat\&logo=googlecloud\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analytics-336791?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-
- **[Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)**
-Cloud-native dashboards built on BigQuery, emphasising scalability and efficient SQL.
+** [Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)**
+Cloud-native dashboards built on BigQuery, with a focus on scalability, efficient SQL, and self-service analytics.
 
 ---
 
-### **Tableau**
+### 📉 **Tableau**
 
-![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=flat)
-![Data Viz](https://img.shields.io/badge/Data_Visualisation-9C27B0?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=flat\&logo=tableau\&logoColor=white)
+![Data Viz](https://img.shields.io/badge/Data%20Visualisation-Storytelling-9C27B0?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-
- **[Tableau Dashboards](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)**
-Interactive analytics with a strong focus on insight discovery and storytelling.
-
----
-
-## Featured BI Dashboards
-
-[UK Rail Performance(Power BI)](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)
-
-[UK Broadband Performance(Power BI)](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)
-
-[Telco Customer Churn(Looker Studio + BigQuery)](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)
-
-[OTT Viewer Retention(Tableau)](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)
+** [Tableau Dashboards](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)**
+Interactive analytics with a strong focus on insight discovery, exploratory analysis, and storytelling.
 
 ---
 
-### **Analytics and Reporting**
+##  Featured BI Dashboards
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=flat&logo=powerbi&logoColor=black)
+* **[UK Rail Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)** *(Power BI)*
+* **[UK Broadband Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)** *(Power BI)*
+* **[Telco Customer Churn](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)** *(Looker Studio + BigQuery)*
+* **[OTT Viewer Retention](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)** *(Tableau)*
+
+---
+
+###  **Analytics & Reporting**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=flat\&logo=powerbi\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=flat)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-Star%20Schema-00599C?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Dimensional-00599C?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-**[Analytics & Reporting Portfolio](https://github.com/karthic180/analytics-and-reporting)**  
-A central repository showcasing **end-to-end reporting and analytics projects**, focusing on:
+** [Analytics & Reporting Portfolio](https://github.com/karthic180/analytics-and-reporting)**
 
-- Business-focused reporting solutions
-- Dimensional & semantic data models
-- KPI design and executive dashboards
-- Power BI, SQL, and analytics best practices
-- Clear documentation of business questions, insights, and decisions supported
+* Business-focused reporting solutions
+* Dimensional & semantic data models
+* KPI design and executive dashboards
+* Power BI, SQL, and analytics best practices
+* Clear documentation of business questions, insights, and decisions supported
 
-This repository acts as the **primary entry point** for my reporting and analytics work.
 
 ---
 
