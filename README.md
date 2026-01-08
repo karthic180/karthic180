@@ -154,6 +154,8 @@ Stakeholder Communication: Effectively translating complex data insights into cl
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat)
 ![DAX](https://img.shields.io/badge/DAX-000000?style=flat)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-00599C?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 
  **[Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)**
 Business-focused dashboards featuring semantic models, performance-optimised DAX, and clear KPI design.
@@ -165,6 +167,8 @@ Business-focused dashboards featuring semantic models, performance-optimised DAX
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 
  **[Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)**
 Cloud-native dashboards built on BigQuery, emphasising scalability and efficient SQL.
@@ -175,6 +179,8 @@ Cloud-native dashboards built on BigQuery, emphasising scalability and efficient
 
 ![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=flat)
 ![Data Viz](https://img.shields.io/badge/Data_Visualisation-9C27B0?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 
  **[Tableau Dashboards](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)**
 Interactive analytics with a strong focus on insight discovery and storytelling.
