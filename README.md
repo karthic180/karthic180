@@ -156,7 +156,7 @@ Stakeholder Communication: Effectively translating complex data insights into cl
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-00599C?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-** [Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)**
+ [Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)
 Business-focused dashboards featuring semantic models, performance-optimised DAX, and clear KPI design.
 
 ---
@@ -168,7 +168,7 @@ Business-focused dashboards featuring semantic models, performance-optimised DAX
 ![SQL](https://img.shields.io/badge/SQL-Analytics-336791?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-** [Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)**
+*[Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)
 Cloud-native dashboards built on BigQuery, with a focus on scalability, efficient SQL, and self-service analytics.
 
 ---
@@ -179,7 +179,7 @@ Cloud-native dashboards built on BigQuery, with a focus on scalability, efficien
 ![Data Viz](https://img.shields.io/badge/Data%20Visualisation-Storytelling-9C27B0?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-** [Tableau Dashboards](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)**
+ [Tableau Dashboards](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)
 Interactive analytics with a strong focus on insight discovery, exploratory analysis, and storytelling.
 
 ---
@@ -190,7 +190,7 @@ Interactive analytics with a strong focus on insight discovery, exploratory anal
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Dimensional-00599C?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-** [Analytics & Reporting Portfolio](https://github.com/karthic180/analytics-and-reporting)**
+ [Analytics & Reporting Portfolio](https://github.com/karthic180/analytics-and-reporting)
 
 * Business-focused reporting solutions
 * Dimensional & semantic data models
@@ -202,10 +202,10 @@ Interactive analytics with a strong focus on insight discovery, exploratory anal
 ---
 ##  Featured BI Dashboards
 
-* **[UK Rail Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)** *(Power BI)*
-* **[UK Broadband Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)** *(Power BI)*
-* **[Telco Customer Churn](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)** *(Looker Studio + BigQuery)*
-* **[OTT Viewer Retention](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)** *(Tableau)*
+* [UK Rail Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md) *(Power BI)*
+* [UK Broadband Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md) *(Power BI)*
+* [Telco Customer Churn](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md) *(Looker Studio + BigQuery)*
+* [OTT Viewer Retention](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md) *(Tableau)*
 
 ---
 
