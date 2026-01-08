@@ -16,10 +16,10 @@
   - [Identity, Device & API Management](#identity-device--api-management)
   - [Web & Markup](#web--markup)
 - [My Projects](#my-projects)
-  - [Power BI](#power-bi)
-  - [Looker Studio & BigQuery](#looker-studio--bigquery)
-  - [Tableau](#tableau)
-  - [Analytics & Reporting](https://github.com/karthic180/analytics-and-reporting/blob/main/reporting_README_main.md)
+  - [Power BI]([#power-bi)](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#-power-bi)
+  - [Looker Studio & BigQuery]([#looker-studio--bigquery)](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#-looker-studio--bigquery)
+  - [Tableau]([#tableau)](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#-tableau)
+  - [Analytics & Reporting](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#analytics-and-reporting)
 
 
 - [Featured BI Dashboards](#featured-bi-dashboards)
@@ -168,7 +168,7 @@ Business-focused dashboards featuring semantic models, performance-optimised DAX
 ![SQL](https://img.shields.io/badge/SQL-Analytics-336791?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-*[Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)
+[Looker Studio Dashboards](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)
 Cloud-native dashboards built on BigQuery, with a focus on scalability, efficient SQL, and self-service analytics.
 
 ---
