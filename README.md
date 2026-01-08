@@ -17,7 +17,7 @@
   - [Web & Markup](#web--markup)
 
 - [My Projects](#my-projects)
-  - [Analytics and Reporting ](#Analytics and Reporting)
+  - [Analytics and Reporting ](https://github.com/karthic180/karthic180/blob/main/README.md#analytics-and-reporting)
   - [Power BI](#power-bi)
   - [Looker Studio & BigQuery](#looker-studio--bigquery)
   - [Tableau](#tableau)
