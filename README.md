@@ -5,6 +5,7 @@
 - [Core Skills](#core-skills)
 - [Core Tools & Technologies](#core-tools--technologies)
 - [Experience Focus](#experience-focus)
+
 - [My Tech Stack & Tools](#my-tech-stack--tools)
   - [BI & Analytics](#bi--analytics)
   - [Power Platform](#power-platform)
@@ -14,10 +15,13 @@
   - [Programming Languages](#programming-languages)
   - [Identity, Device & API Management](#identity-device--api-management)
   - [Web & Markup](#web--markup)
+
 - [My Projects](#my-projects)
+  - [Analytics and Reporting ](#Analytics and Reporting)
   - [Power BI](#power-bi)
   - [Looker Studio & BigQuery](#looker-studio--bigquery)
   - [Tableau](#tableau)
+
 - [Featured BI Dashboards](#featured-bi-dashboards)
 - [App Support](#app-support)
 - [Core Capabilities](#core-capabilities)
@@ -186,6 +190,26 @@ Interactive analytics with a strong focus on insight discovery and storytelling.
 [Telco Customer Churn(Looker Studio + BigQuery)](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)
 
 [OTT Viewer Retention(Tableau)](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)
+
+---
+
+### **Analytics and Reporting**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-Star%20Schema-00599C?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+**[Analytics & Reporting Portfolio](https://github.com/karthic180/analytics-and-reporting)**  
+A central repository showcasing **end-to-end reporting and analytics projects**, focusing on:
+
+- Business-focused reporting solutions
+- Dimensional & semantic data models
+- KPI design and executive dashboards
+- Power BI, SQL, and analytics best practices
+- Clear documentation of business questions, insights, and decisions supported
+
+This repository acts as the **primary entry point** for my reporting and analytics work.
 
 ---
 
