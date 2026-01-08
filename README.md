@@ -149,7 +149,7 @@ Stakeholder Communication: Effectively translating complex data insights into cl
 
 ---
 
-### 📊 **Power BI**
+### 📊 Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Performance--Optimised-black?style=flat)
@@ -161,7 +161,7 @@ Business-focused dashboards featuring semantic models, performance-optimised DAX
 
 ---
 
-### 📈 **Looker Studio & BigQuery**
+### 📈 Looker Studio & BigQuery
 
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-1A73E8?style=flat\&logo=googleanalytics\&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat\&logo=googlecloud\&logoColor=white)
@@ -173,7 +173,7 @@ Cloud-native dashboards built on BigQuery, with a focus on scalability, efficien
 
 ---
 
-### 📉 **Tableau**
+### 📉 Tableau
 
 ![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=flat\&logo=tableau\&logoColor=white)
 ![Data Viz](https://img.shields.io/badge/Data%20Visualisation-Storytelling-9C27B0?style=flat)
@@ -183,7 +183,7 @@ Cloud-native dashboards built on BigQuery, with a focus on scalability, efficien
 Interactive analytics with a strong focus on insight discovery, exploratory analysis, and storytelling.
 
 ---
-###  **Analytics & Reporting**
+###  Analytics and Reporting
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=flat\&logo=powerbi\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=flat)
