@@ -183,16 +183,6 @@ Cloud-native dashboards built on BigQuery, with a focus on scalability, efficien
 Interactive analytics with a strong focus on insight discovery, exploratory analysis, and storytelling.
 
 ---
-
-##  Featured BI Dashboards
-
-* **[UK Rail Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)** *(Power BI)*
-* **[UK Broadband Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)** *(Power BI)*
-* **[Telco Customer Churn](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)** *(Looker Studio + BigQuery)*
-* **[OTT Viewer Retention](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)** *(Tableau)*
-
----
-
 ###  **Analytics & Reporting**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=flat\&logo=powerbi\&logoColor=black)
@@ -210,6 +200,15 @@ Interactive analytics with a strong focus on insight discovery, exploratory anal
 
 
 ---
+##  Featured BI Dashboards
+
+* **[UK Rail Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)** *(Power BI)*
+* **[UK Broadband Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)** *(Power BI)*
+* **[Telco Customer Churn](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md)** *(Looker Studio + BigQuery)*
+* **[OTT Viewer Retention](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md)** *(Tableau)*
+
+---
+
 
 ## App Support
 
