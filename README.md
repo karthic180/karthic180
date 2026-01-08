@@ -19,7 +19,7 @@
   - [Power BI](#power-bi)
   - [Looker Studio & BigQuery](#looker-studio--bigquery)
   - [Tableau](#tableau)
-  - [Analytics & Reporting](https://github.com/karthic180/karthic180/blob/main/README.md#analytics-and-reporting)
+  - [Analytics & Reporting](https://github.com/karthic180/analytics-and-reporting/blob/main/reporting_README_main.md)
 
 
 - [Featured BI Dashboards](#featured-bi-dashboards)
