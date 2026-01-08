@@ -16,9 +16,9 @@
   - [Identity, Device & API Management](#identity-device--api-management)
   - [Web & Markup](#web--markup)
 - [My Projects](#my-projects)
-  - [Power BI]([#power-bi)](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#-power-bi)
-  - [Looker Studio & BigQuery]([#looker-studio--bigquery)](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#-looker-studio--bigquery)
-  - [Tableau]([#tableau)](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#-tableau)
+  - [Power BI](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#-power-bi)
+  - [Looker Studio & BigQuery](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#-looker-studio--bigquery)
+  - [Tableau](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#-tableau)
   - [Analytics & Reporting](https://github.com/karthic180/karthic180/tree/main?tab=readme-ov-file#analytics-and-reporting)
 
 
