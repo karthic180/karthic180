@@ -141,7 +141,7 @@ Stakeholder Communication: Effectively translating complex data insights into cl
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-00599C?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
- [Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md)
+ [Power BI Dashboards](https://github.com/karthic180/power-bi-dashboards/blob/main/README_MAIN_PBI1.md)
 Business-focused dashboards featuring semantic models, performance-optimised DAX, and clear KPI design.
 
 ---
