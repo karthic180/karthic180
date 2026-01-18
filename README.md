@@ -7,7 +7,6 @@
 - [Experience Focus](#experience-focus)
 - [My Tech Stack & Tools](#my-tech-stack--tools)
 - [My Projects](#my-projects)
-- [Featured BI Dashboards](#featured-bi-dashboards)
 - [App Support](#app-support)
 - [Core Capabilities](#core-capabilities)
 - [Supported Technologies & Tools](#supported-technologies--tools)
@@ -185,15 +184,6 @@ Interactive analytics with a strong focus on insight discovery, exploratory anal
 
 
 ---
-##  Featured BI Dashboards
-
-* [UK Rail Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md) *(Power BI)*
-* [UK Broadband Performance](https://github.com/karthic180/power-bi-dashboards/blob/main/README_PBI.md) *(Power BI)*
-* [Telco Customer Churn](https://github.com/karthic180/lookerstudio-dashboards/blob/main/README.md) *(Looker Studio + BigQuery)*
-* [OTT Viewer Retention](https://github.com/karthic180/tableau_dashboards/blob/main/README_Tab.md) *(Tableau)*
-
----
-
 
 ## App Support
 
