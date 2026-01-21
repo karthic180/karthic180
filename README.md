@@ -189,7 +189,6 @@ Interactive analytics with a strong focus on insight discovery, exploratory anal
 * Power BI, SQL, and analytics best practices
 * Clear documentation of business questions, insights, and decisions supported
 
-
 ---
 
 ## App Support
@@ -197,17 +196,5 @@ Interactive analytics with a strong focus on insight discovery, exploratory anal
 A strong background in enterprise application support ensures the analytics solutions I build are secure, stable, and production-ready.
 
 [![App Support Repo](https://img.shields.io/badge/App_Support-Repo-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/karthic180/appsupport/blob/main/README.md)
-
----
-
-## Core Capabilities
-
-* REST API troubleshooting & support
-* Identity & access management (Microsoft Entra)
-* Cloud productivity platforms (Google Workspace)
-* Endpoint management & device compliance
-* Monitoring, logging & incident response
-* Root cause analysis and structured triage
-* Clear communication with technical and non-technical stakeholders
 
 ---
