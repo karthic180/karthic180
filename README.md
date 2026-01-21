@@ -1,18 +1,3 @@
-## Contents
-
-- [Hi and Welcome](#hi-and-welcome)
-- [About Me](#about-me)
-- [Core Skills](#core-skills)
-- [Core Tools & Technologies](#core-tools--technologies)
-- [Experience Focus](#experience-focus)
-- [My Tech Stack & Tools](#my-tech-stack--tools)
-- [My Projects](#my-projects)
-- [App Support](#app-support)
-- [Core Capabilities](#core-capabilities)
-- [Supported Technologies & Tools](#supported-technologies--tools)
-
----
-
 ## Hi and Welcome
 
 Hi, I’m Karthic — I work with data to support analysis, reporting, and informed decision-making.
@@ -60,6 +45,27 @@ My experience includes:
 <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a> 
 <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a> 
 <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black"/></a>
+
+<a href="https://www.microsoft.com/microsoft-365/excel">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-teams">
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white"/>
+</a>
+
+<a href="https://zoom.us/">
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white"/>
+</a>
+
+<a href="https://slack.com/">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+</a>
+
 
 ---
 
