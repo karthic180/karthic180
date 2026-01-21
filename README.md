@@ -66,6 +66,7 @@ My experience includes:
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 </a>
 
+<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white"/></a> <a href="https://learn.microsoft.com/entra/"><img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat"/></a>  <a href="https://learn.microsoft.com/mem/intune/"><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat"/></a> <a href="https://workspace.google.com/"><img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white"/></a>  <a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/></a>
 
 ---
 
@@ -208,11 +209,5 @@ A strong background in enterprise application support ensures the analytics solu
 * Monitoring, logging & incident response
 * Root cause analysis and structured triage
 * Clear communication with technical and non-technical stakeholders
-
----
-
-## Supported Technologies & Tools
-
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white"/></a> <a href="https://learn.microsoft.com/entra/"><img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat"/></a> <a href="https://learn.microsoft.com/mem/intune/"><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat"/></a> <a href="https://workspace.google.com/"><img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white"/></a> <a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/></a>
 
 ---
