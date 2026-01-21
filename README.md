@@ -43,9 +43,6 @@ My experience includes:
 
 ## **Core Skills**
 
-**What I do best**
-
-<a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/Advanced_SQL-CC2927?style=flat"/></a>
 <a href="https://www.postgresql.org/docs/"> <img src="https://img.shields.io/badge/PostgreSQL_Querying_%26_Optimization-336791?style=flat&logo=postgresql&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/power-bi/"> <img src="https://img.shields.io/badge/BI_Dashboarding_%26_Reporting-F2C811?style=flat"/></a>
 <a href="https://learn.microsoft.com/power-bi/transform-model/desktop-semantic-model"> <img src="https://img.shields.io/badge/Semantic_Data_Modeling-F2C811?style=flat"/></a>
@@ -58,7 +55,11 @@ My experience includes:
 ---
 ## **Core Tools & Technologies**
 
-<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a> <a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a> <a href="https://learn.microsoft.com/dax/"><img src="https://img.shields.io/badge/DAX-512BD4?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://learn.microsoft.com/power-query/"><img src="https://img.shields.io/badge/Power_Query-008272?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://docs.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/></a> <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache_Spark-FF3621?style=flat&logo=apachespark&logoColor=white"/></a> <a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a> <a href="https://learn.microsoft.com/fabric/"><img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/></a> <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/></a> <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a> <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a> <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black"/></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a> <a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/><a href="https://learn.microsoft.com/power-query/"><img src="https://img.shields.io/badge/Power_Query-008272?style=flat&logo=microsoft&logoColor=white"/></a> 
+<a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a> 
+<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a> 
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a> 
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black"/></a>
 
 ---
 
@@ -80,58 +81,57 @@ Data Governance & Accuracy: Ensuring data consistency, quality, and governance t
 Stakeholder Communication: Effectively translating complex data insights into clear, actionable recommendations for both technical and non-technical stakeholders.
 
 ---
-## **My Tech Stack & Tools**
 
-### **BI & Analytics**
+## My Tech Stack & Tools
 
-<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a> <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat&logo=google&logoColor=white"/></a> <a href="https://cloud.google.com/looker"><img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a> <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat&logo=tableau&logoColor=white"/></a>
+**BI & Analytics**
 
----
+<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
+<a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat&logo=google&logoColor=white"/></a>
+<a href="https://cloud.google.com/looker"><img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+<a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat&logo=tableau&logoColor=white"/></a>
 
-### **Programming Languages**
 
-<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a> <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/></a> <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
+**Programming Languages**
 
----
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"/></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
 
-### **Query Languages & Scripting**
 
-<a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></a> <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/></a> <a href="https://learn.microsoft.com/power-query/m-language/"><img src="https://img.shields.io/badge/Power_Query_M-217346?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://learn.microsoft.com/azure/data-explorer/kusto/query/"><img src="https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoft&logoColor=white"/></a>
+**Query Languages & Scripting**
 
----
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/sql/ssms/"><img src="https://img.shields.io/badge/SSMS-4479A1?style=flat&logo=microsoftsqlserver&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/sql/integration-services/"><img src="https://img.shields.io/badge/SSIS-00599C?style=flat&logo=microsoftsqlserver&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/azure/data-explorer/kusto/query/"><img src="https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoft&logoColor=white"/></a>
 
-### **Power Platform**
 
-<a href="https://powerplatform.microsoft.com/"><img src="https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=microsoftpowerplatform&logoColor=white"/></a> <a href="https://learn.microsoft.com/power-query/"><img src="https://img.shields.io/badge/Power_Query-008272?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://learn.microsoft.com/dax/"><img src="https://img.shields.io/badge/DAX-512BD4?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://powerapps.microsoft.com/"><img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white"/></a> <a href="https://powerautomate.microsoft.com/"><img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/></a> <a href="https://learn.microsoft.com/power-platform/admin/dataverse-overview"><img src="https://img.shields.io/badge/Dataverse-0B5FFF?style=flat&logo=microsoftdataverse&logoColor=white"/></a>
+**Data & Cloud Platforms**
 
----
+<a href="https://learn.microsoft.com/fabric/"><img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/></a>
+<a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
+<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black"/></a>
 
-### **Data & Cloud Platforms**
+**Identity, Device & API Management**
 
-<a href="https://learn.microsoft.com/fabric/"><img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://docs.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/></a> <a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a> <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a> <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a> <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black"/></a>
+<a href="https://learn.microsoft.com/entra/"><img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white"/></a>
+<a href="https://learn.microsoft.com/mem/intune/"><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat&logo=microsoft&logoColor=white"/></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/Jamf-00ADEF?style=flat&logo=jamf&logoColor=white"/></a>
+<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white"/></a>
 
----
 
-### **Data Engineering & Processing**
+**Web & Markup** 
 
-<a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache_Spark-FF3621?style=flat&logo=apachespark&logoColor=white"/></a> <a href="https://docs.delta.io/"><img src="https://img.shields.io/badge/Delta_Lake-003366?style=flat&logo=delta&logoColor=white"/></a> <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/></a> <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/></a> <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/></a>
-
----
-
-### **Identity, Device & API Management**
-
-<a href="https://learn.microsoft.com/entra/"><img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://learn.microsoft.com/mem/intune/"><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/Jamf-00ADEF?style=flat&logo=jamf&logoColor=white"/></a> <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white"/></a>
-
----
-
-### **Web & Markup**
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
 
 ---
 ##  My Projects
-
----
 
 ### 📊 Power BI
 
