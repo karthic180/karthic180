@@ -3,20 +3,6 @@
 
 I am an analyst specialising in Power BI, focused on building decision-ready dashboards that support commercial and operational teams.
 ---
-
-##  What I Do Best
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Development-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Performance--Optimised-black?style=flat)
-![Governance](https://img.shields.io/badge/Data-Quality%20%26%20Governance-0078D4?style=flat)
-
-- End-to-end Power BI dashboard development
-- Dimensional & semantic data modelling (Star Schemas, Fact/Dimension tables)
-- SQL-driven analytics (PostgreSQL, T-SQL, CTEs, window functions)
-- KPI design aligned to business decisions
-- Focus on data quality, performance, and trust
-
----
 ##  Core Skills & Tools
 
 ### **Power BI & Analytics Focus**
