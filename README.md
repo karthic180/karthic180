@@ -51,7 +51,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Production%20Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Optimised-black?style=flat)
 ![Data Model](https://img.shields.io/badge/Data%20Model-Star%20Schema-00599C?style=flat)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
  **[Power BI Dashboards Portfolio](https://github.com/karthic180/power-bi-dashboards/blob/main/README_MAIN_PBI1.md)**
 
