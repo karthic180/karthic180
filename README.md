@@ -46,7 +46,7 @@
 
 ##  Featured Projects
 
-###  Power BI Dashboards (Primary Focus)
+###  Power BI Dashboards
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Production%20Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Optimised-black?style=flat)
