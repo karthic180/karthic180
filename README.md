@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Karthic
-![Portfolio](https://img.shields.io/badge/Portfolio-Decision--Ready-brightgreen)
-
 I am an analyst specialising in Power BI, focused on building decision-ready dashboards that support commercial and operational teams.
 ---
 ##  Core Skills & Tools
