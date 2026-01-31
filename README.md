@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Karthic
-I am an analyst specialising in Power BI, focused on building decision-ready dashboards that support commercial and operational teams.
 ---
 ##  Core Skills & Tools
 
