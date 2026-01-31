@@ -37,7 +37,7 @@
 <a href="https://learn.microsoft.com/mem/intune/"><img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat"/></a>  
 <a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/></a>
 
-### **Additional BI Tools (Optional / Context Only)**
+### **Additional Tools**
 <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat&logo=googleanalytics&logoColor=white"/></a>
 <a href="https://cloud.google.com/looker"><img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
 <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat&logo=tableau&logoColor=white"/></a>
