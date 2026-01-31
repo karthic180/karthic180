@@ -138,6 +138,23 @@ Stakeholder Communication: Effectively translating complex data insights into cl
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
 
 ---
+###  Analytics and Reporting
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Dimensional-00599C?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+ [Analytics & Reporting Portfolio](https://github.com/karthic180/analytics-and-reporting)
+
+* Business-focused reporting solutions
+* Dimensional & semantic data models
+* KPI design and executive dashboards
+* Power BI, SQL, and analytics best practices
+* Clear documentation of business questions, insights, and decisions supported
+
+---
+
 ##  My Projects
 
 ### 📊 Power BI
@@ -174,17 +191,3 @@ Cloud-native dashboards built on BigQuery, with a focus on scalability, efficien
 Interactive analytics with a strong focus on insight discovery, exploratory analysis, and storytelling.
 
 ---
-###  Analytics and Reporting
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=flat)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Dimensional-00599C?style=flat)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
- [Analytics & Reporting Portfolio](https://github.com/karthic180/analytics-and-reporting)
-
-* Business-focused reporting solutions
-* Dimensional & semantic data models
-* KPI design and executive dashboards
-* Power BI, SQL, and analytics best practices
-* Clear documentation of business questions, insights, and decisions supported
