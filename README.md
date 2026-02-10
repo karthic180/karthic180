@@ -14,7 +14,6 @@
 ### **SQL & Databases**
 <a href="https://www.postgresql.org/docs/"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/sql/"><img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/></a>
-<a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
 
 ### **Cloud Platforms & Supporting Tools**
 <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
