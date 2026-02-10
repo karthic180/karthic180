@@ -3,7 +3,6 @@
 ##  Core Skills & Tools
 
 ### **Power BI & Analytics Focus**
-<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/></a>
 <a href="https://learn.microsoft.com/power-query/"><img src="https://img.shields.io/badge/Power_Query-008272?style=flat&logo=microsoft&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/power-bi/transform-model/desktop-semantic-model"><img src="https://img.shields.io/badge/Semantic_Data_Modeling-F2C811?style=flat"/></a>
 <a href="https://en.wikipedia.org/wiki/Star_schema"><img src="https://img.shields.io/badge/Dimensional_Modeling-00599C?style=flat"/></a>
@@ -59,22 +58,6 @@ Business-focused dashboards featuring:
 - Performance-optimised DAX
 - Clearly defined KPIs
 - Documentation explaining the decision each dashboard supports
-
----
-
-###  SQL and BI
-
-![SQL](https://img.shields.io/badge/SQL-Analytics-336791?style=flat&logo=postgresql&logoColor=white)
-![Dimensional Modeling](https://img.shields.io/badge/Data%20Modeling-Dimensional-00599C?style=flat)
-![Reporting](https://img.shields.io/badge/Reporting-Power%20BI-F2C811?style=flat)
-
- **[Analytics & Reporting Portfolio](https://github.com/karthic180/analytics-and-reporting)**
-
-End-to-end analytics projects demonstrating:
-- SQL-driven data preparation
-- Dimensional modelling for BI consumption
-- Stakeholder-aligned metrics
-- Clean handoff into Power BI reporting layers
 
 ---
 
