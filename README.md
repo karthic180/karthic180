@@ -1,8 +1,26 @@
 # 👋 Hi, I’m Karthic
 
 ---
+##  Featured Projects
 
-## 🚀 Core Skills & Tools
+##  Power BI Dashboards
+
+A collection of interactive, data‑driven Power BI dashboards showcasing skills in data modelling, DAX, visual storytelling, and business intelligence.
+
+[Power BI Repo](https://github.com/karthic180/power-bi-dashboards)
+
+
+## Weather App
+
+A complete weather system built from scratch — combining ETL, a terminal interface, and a Streamlit web UI.
+Created using Python with VS Code IDE
+
+ [Weather App](https://github.com/karthic180/weatherdashboard)
+
+ 
+---
+
+##  Core Skills & Tools
 
 ### **Power BI & Analytics Focus**
 
@@ -49,4 +67,5 @@
 ### **BI & Visualisation Tools**
 
 <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat&logo=googleanalytics&logoColor=white"/></a> <a href="https://cloud.google.com/looker"><img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a> <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-005F9E?style=flat&logo=tableau&logoColor=white"/></a>
+
 
