@@ -5,6 +5,8 @@
 
 ##  Power BI Dashboards
 
+<p> <a href="https://learn.microsoft.com/power-bi/"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> </a> <a href="https://learn.microsoft.com/dax/"> <img src="https://img.shields.io/badge/DAX-000000?style=flat&logo=powerbi&logoColor=white"/> </a> </p>>
+
 A collection of interactive, data‑driven Power BI dashboards showcasing skills in data modelling, DAX, visual storytelling, and business intelligence.
 
 [Power BI Repo](https://github.com/karthic180/power-bi-dashboards)
@@ -12,8 +14,9 @@ A collection of interactive, data‑driven Power BI dashboards showcasing skills
 
 ## Weather App
 
+<p> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> </a> <a href="https://streamlit.io/"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> </a> <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> </a> </p>
+
 A complete weather system built from scratch — combining ETL, a terminal interface, and a Streamlit web UI.
-Created using Python with VS Code IDE
 
  [Weather App](https://github.com/karthic180/weatherdashboard)
 
@@ -24,7 +27,7 @@ Created using Python with VS Code IDE
 
 ### **Power BI & Analytics Focus**
 
-<a href="https://learn.microsoft.com/power-query/"><img src="https://img.shields.io/badge/Power_Query-008272?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://learn.microsoft.com/power-bi/transform-model/desktop-semantic-model"><img src="https://img.shields.io/badge/Semantic_Data_Modeling-F2C811?style=flat"/></a> <a href="https://en.wikipedia.org/wiki/Star_schema"><img src="https://img.shields.io/badge/Dimensional_Modeling-00599C?style=flat"/></a> <a href="https://learn.microsoft.com/power-bi/"> <img src="https://img.shields.io/badge/BI_Dashboarding_%26_Reporting-F2C811?style=flat"/></a> <a href="https://www.klipfolio.com/resources/articles/kpi-examples"><img src="https://img.shields.io/badge/KPI_Design_%26_Tracking-FF6F00?style=flat"/></a> <a href="https://www.storytellingwithdata.com/"><img src="https://img.shields.io/badge/Data_Storytelling-FF4081?style=flat"/></a> <a href="https://learn.microsoft.com/power-bi/guidance/data-quality"><img src="https://img.shields.io/badge/Data_Quality_%26_Governance-0078D4?style=flat"/></a>
+<a href="https://learn.microsoft.com/power-query/"><img src="https://img.shields.io/badge/Power_Query-008272?style=flat&logo=microsoft&logoColor=white"/></a> <a href="https://learn.microsoft.com/power-bi/transform-model/desktop-semantic-model"><img src="https://img.shields.io/badge/Semantic_Data_Modeling-F2C811?style=flat"/></a> <a href="https://en.wikipedia.org/wiki/Star_schema"><img src="https://img.shields.io/badge/Dimensional_Modeling-00599C?style=flat"/></a> <a href="https://learn.microsoft.com/power-bi/"> <img src="https://img.shields.io/badge/BI_Dashboarding_%26_Reporting-F2C811?style=flat"/></a> <a href="https://www.klipfolio.com/resources/articles/kpi-examples"><img src="https://img.shields.io/badge/KPI_Design_%26_Tracking-FF6F00?style=flat"/></a> <a href="https://www.storytellingwithdata.com/"><img src="https://img.shields.io/badge/Data_Storytelling-FF4081?style=flat"/></a> <a href="https://learn.microsoft.com/power-bi/guidance/data-quality"><img src="https://img.shields.io/badge/Data_Quality_%26_Governance-0078D4?style=flat"/></a> <a href="https://learn.microsoft.com/power-bi/"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> </a> <a href="https://learn.microsoft.com/dax/"> <img src="https://img.shields.io/badge/DAX-000000?style=flat&logo=powerbi&logoColor=white"/> </a>
 
 ---
 
