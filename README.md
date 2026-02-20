@@ -29,15 +29,16 @@ Combines ETL processing, a terminal interface, and an interactive web dashboard 
 ## Weather ETL Pipeline
 <p> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> </a> <a href="https://www.sqlite.org/index.html"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/> </a> <a href="https://open-meteo.com/"> <img src="https://img.shields.io/badge/Open--Meteo_API-1E90FF?style=flat"/> </a> <a href="https://opensource.org/license/mit/"> <img src="https://img.shields.io/badge/License-MIT-green?style=flat"/> </a> </p>
 
-A practical Data Engineering ETL pipeline that extracts live weather data for major European cities using the Open-Meteo API, transforms the response, and loads it into a SQLite database.
+A ETL pipeline that extracts live weather data for major European cities using the Open-Meteo API, transforms the response, and loads it into a SQLite database.
 
 Includes a command-line query tool to retrieve the latest weather data for any stored city.
 
-[Weather ETL] (https://github.com/karthic180/weatherping)
+
+[Weather ETL](https://github.com/karthic180//weatherping)
 
 ##  Core Skills & Tools
 
-### 📊 Power BI & Analytics Focus
+###  Power BI & Analytics Focus
 
 <p>
 <a href="https://learn.microsoft.com/power-query/"><img src="https://img.shields.io/badge/Power_Query-008272?style=flat&logo=microsoft&logoColor=white"/></a>
@@ -53,7 +54,7 @@ Includes a command-line query tool to retrieve the latest weather data for any s
 
 ---
 
-### 💻 Programming & Data Engineering
+###  Programming & Data Engineering
 
 <p>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
@@ -67,7 +68,7 @@ Includes a command-line query tool to retrieve the latest weather data for any s
 
 ---
 
-### 🗄 SQL & Databases
+###  SQL & Databases
 
 <p>
 <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></a>
@@ -78,7 +79,7 @@ Includes a command-line query tool to retrieve the latest weather data for any s
 
 ---
 
-### ⚙️ Version Control & DevOps
+###  Version Control & DevOps
 
 <p>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
@@ -88,7 +89,7 @@ Includes a command-line query tool to retrieve the latest weather data for any s
 
 ---
 
-### ☁️ Cloud Platforms & Data Platforms
+###  Cloud Platforms & Data Platforms
 
 <p>
 <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/></a>
@@ -99,7 +100,7 @@ Includes a command-line query tool to retrieve the latest weather data for any s
 
 ---
 
-### 🤝 Office, Collaboration & Automation
+###  Office, Collaboration & Automation
 
 <p>
 <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/></a>
@@ -112,7 +113,7 @@ Includes a command-line query tool to retrieve the latest weather data for any s
 
 ---
 
-### 🔐 APIs, Identity & Automation
+###  APIs, Identity & Automation
 
 <p>
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white"/></a>
@@ -123,7 +124,7 @@ Includes a command-line query tool to retrieve the latest weather data for any s
 
 ---
 
-### 📈 BI & Visualisation Tools
+###  BI & Visualisation Tools
 
 <p>
 <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat&logo=googleanalytics&logoColor=white"/></a>
