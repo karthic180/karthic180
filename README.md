@@ -1,40 +1,57 @@
 # 👋 Hi, I’m Karthic
 
 ---
-##  Featured Projects
+##  Portfolios
 
-##  Power BI Dashboards
-<p> <a href="https://learn.microsoft.com/power-bi/"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> </a> <a href="https://learn.microsoft.com/dax/"> <img src="https://img.shields.io/badge/DAX-000000?style=flat&logo=powerbi&logoColor=white"/> </a> </p>
+###  Business Intelligence (BI)
 
-A practical Business Intelligence portfolio showcasing interactive dashboards built with Power BI.
+<p>
+  <a href="https://learn.microsoft.com/power-bi/">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  </a>
+  <a href="https://learn.microsoft.com/dax/">
+    <img src="https://img.shields.io/badge/DAX-000000?style=flat&logo=powerbi&logoColor=white"/>
+  </a>
+  <a href="https://www.tableau.com/">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  </a>
+  <a href="https://looker.com/">
+    <img src="https://img.shields.io/badge/Looker-00B4D8?style=flat&logo=looker&logoColor=white"/>
+  </a>
+</p>
 
-Focuses on data modelling, DAX calculations, KPI tracking, and visual storytelling to transform raw data into actionable insights.
+A practical Business Intelligence portfolio showcasing interactive dashboards 
 
-[Power BI Repo](https://github.com/karthic180/power-bi-dashboards)
+**Focus areas:**
+- Data modelling (star schema)
+- DAX calculations & KPIs
+- Visual storytelling to turn data into insights
 
+ [View Business Intelligence Portfolio](https://github.com/karthic180/biportfolio/blob/main/README.md)
 
-## Weather App
-
-<p> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> </a> <a href="https://streamlit.io/"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> </a> <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> </a> </p>
-
-A complete end-to-end weather application built with Python and Streamlit.
-
-Combines ETL processing, a terminal interface, and an interactive web dashboard to fetch, store, and visualize real-time weather data.
-
- [Weather App](https://github.com/karthic180/weatherdashboard)
-
- 
 ---
 
-## Weather ETL Pipeline
-<p> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> </a> <a href="https://www.sqlite.org/index.html"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/> </a> <a href="https://open-meteo.com/"> <img src="https://img.shields.io/badge/Open--Meteo_API-1E90FF?style=flat"/> </a> <a href="https://opensource.org/license/mit/"> <img src="https://img.shields.io/badge/License-MIT-green?style=flat"/> </a> </p>
+###  Programming Portfolio
 
-A ETL pipeline that extracts live weather data for major European cities using the Open-Meteo API, transforms the response, and loads it into a SQLite database.
+<p>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  </a>
+</p>
 
-Includes a command-line query tool to retrieve the latest weather data for any stored city.
-
-
-[Weather ETL](https://github.com/karthic180//weatherping)
+ [View Programming Portfolio](https://github.com/karthic180/Programming)
 
 ##  Core Skills & Tools
 
