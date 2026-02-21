@@ -25,7 +25,7 @@
 
 ---
 
-###  Programming Portfolio
+###  Programming
 
 <p>
   <a href="https://www.python.org/">
