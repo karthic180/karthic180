@@ -20,12 +20,6 @@
   </a>
 </p>
 
-A practical Business Intelligence portfolio showcasing interactive dashboards 
-
-**Focus areas:**
-- Data modelling (star schema)
-- DAX calculations & KPIs
-- Visual storytelling to turn data into insights
 
  [View Business Intelligence Portfolio](https://github.com/karthic180/biportfolio/blob/main/README.md)
 
