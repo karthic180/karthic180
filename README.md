@@ -45,7 +45,7 @@
   </a>
 </p>
 
- [View Programming Portfolio](https://github.com/karthic180/Programming)
+ [View Programming Portfolio](https://github.com/karthic180/Programming/blob/main/READMEProgramMain.md)
 
 ##  Core Skills & Tools
 
