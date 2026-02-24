@@ -36,8 +36,8 @@ https://github.com/karthic180/biportfolio/blob/main/READMEBI_Main.md
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 </p>
-
 **View Programming Portfolio:**  
 https://github.com/karthic180/Programming/blob/main/READMEProgramMain.md
 
