@@ -1,14 +1,9 @@
-# <p align="center"><strong>Karthic Sinnadurai</strong></p>
-
----
 
 # Summary ##
 
 Experience delivering data, analytics, and automation solutions across the Microsoft ecosystem and modern open‑source platforms. Work includes end‑to‑end BI development, data engineering, cloud analytics, and workflow automation using Microsoft Fabric, Power BI, the Power Platform, Python, SQL (including PostgreSQL and SQLite), and Visual Studio Code.
 
 Background spans identity and access management (IAM), Salesforce data environments, and certified Salesforce capabilities, alongside broader BI and data‑analysis technologies. The focus is on delivering solutions that are robust, maintainable, and aligned with organisational objectives—whether developing semantic models in Fabric, engineering data pipelines, improving SQL performance, or creating clear, insight‑driven dashboards. The approach is structured, analytical, and centred on producing work that is technically sound, scalable, and ready for real‑world decision‑making.
-
-
 
 ---
 
@@ -23,8 +18,7 @@ Background spans identity and access management (IAM), Salesforce data environme
   <img src="https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat&logo=googleanalytics&logoColor=white"/>
 </p>
 
-**View BI Portfolio:**  
-https://github.com/karthic180/biportfolio/blob/main/READMEBI_Main.md
+[**View BI Portfolio**](https://github.com/karthic180/biportfolio/blob/main/READMEBI_Main.md)
 
 ---
 
@@ -36,9 +30,9 @@ https://github.com/karthic180/biportfolio/blob/main/READMEBI_Main.md
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  
-**View Programming Portfolio:**  
-https://github.com/karthic180/Programming/blob/main/READMEProgramMain.md
+</p>
+
+[**View Programming Portfolio**](https://github.com/karthic180/Programming/blob/main/READMEProgramMain.md)
 
 ---
 
@@ -118,4 +112,3 @@ https://github.com/karthic180/Programming/blob/main/READMEProgramMain.md
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
 </p>
-
