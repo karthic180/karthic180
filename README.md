@@ -29,6 +29,7 @@ Background spans identity and access management (IAM), Salesforce data environme
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
 </p>
 
 [**View Programming Portfolio**](https://github.com/karthic180/Programming/blob/main/READMEProgramMain.md)
