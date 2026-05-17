@@ -1,7 +1,6 @@
 # Summary
 
-Experienced Data Architect, Data Analyst, and Developer delivering data, analytics, automation, and business intelligence solutions across the Microsoft ecosystem and modern open-source platforms.
-
+Experienced Data Architect, BI Developer, Data Analyst, and Developer delivering data, analytics, automation, and business intelligence solutions across the Microsoft ecosystem and modern open-source platforms.
 Skilled in end-to-end BI development, data engineering, cloud analytics, and workflow automation using Microsoft Fabric, Power BI, Power Pivot, Power Query, the Power Platform, Python, SQL (including PostgreSQL and SQLite), and Visual Studio Code.
 
 Background includes identity and access management (IAM), Salesforce data environments, and certified Salesforce capabilities, alongside broader BI, analytics, and data-modelling technologies. Strong experience designing scalable data architectures, semantic models, ETL pipelines, and insight-driven dashboards that support strategic and operational decision-making.
@@ -41,6 +40,24 @@ Combines a structured and analytical approach with practical problem-solving to 
 </p>
 
 [**View Programming Portfolio**](https://github.com/karthic180/Programming/blob/main/READMEProgramMain.md)
+
+---
+
+## Data Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Architecture-0052CC?style=flat"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-0F6CBD?style=flat"/>
+  <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat"/>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data-0089D6?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Warehouse-003B57?style=flat"/>
+  <img src="https://img.shields.io/badge/Lakehouse-1F70C1?style=flat"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+</p>
+
+[**View Data Architecture Portfolio**](https://github.com/karthic180)
 
 ---
 
