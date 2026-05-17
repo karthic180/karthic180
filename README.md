@@ -1,17 +1,25 @@
-# Summary ##
+# Summary
 
-Experience delivering data, analytics, and automation solutions across the Microsoft ecosystem and modern open‑source platforms. Work includes end‑to‑end BI development, data engineering, cloud analytics, and workflow automation using Microsoft Fabric, Power BI, the Power Platform, Python, SQL (including PostgreSQL and SQLite), and Visual Studio Code.
+Experienced Data Architect, Data Analyst, and Developer delivering data, analytics, automation, and business intelligence solutions across the Microsoft ecosystem and modern open-source platforms.
 
-Background spans identity and access management (IAM), Salesforce data environments, and certified Salesforce capabilities, alongside broader BI and data‑analysis technologies. The focus is on delivering solutions that are robust, maintainable, and aligned with organisational objectives—whether developing semantic models in Fabric, engineering data pipelines, improving SQL performance, or creating clear, insight‑driven dashboards. The approach is structured, analytical, and centred on producing work that is technically sound, scalable, and ready for real‑world decision‑making.
+Skilled in end-to-end BI development, data engineering, cloud analytics, and workflow automation using Microsoft Fabric, Power BI, Power Pivot, Power Query, the Power Platform, Python, SQL (including PostgreSQL and SQLite), and Visual Studio Code.
+
+Background includes identity and access management (IAM), Salesforce data environments, and certified Salesforce capabilities, alongside broader BI, analytics, and data-modelling technologies. Strong experience designing scalable data architectures, semantic models, ETL pipelines, and insight-driven dashboards that support strategic and operational decision-making.
+
+Focused on delivering solutions that are robust, maintainable, scalable, and aligned with organisational objectives — whether engineering modern data platforms, improving SQL performance, developing automation workflows, or building interactive analytics solutions.
+
+Combines a structured and analytical approach with practical problem-solving to create technically sound solutions ready for real-world business use.
 
 ---
 
-# **Portfolios**
+# Portfolios
 
-## **Business Intelligence (BI)**
+## Business Intelligence (BI)
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_Pivot-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=flat"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Looker-00B4D8?style=flat&logo=looker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat&logo=googleanalytics&logoColor=white"/>
@@ -21,7 +29,7 @@ Background spans identity and access management (IAM), Salesforce data environme
 
 ---
 
-## **Programming**
+## Programming
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -29,28 +37,33 @@ Background spans identity and access management (IAM), Salesforce data environme
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 </p>
 
 [**View Programming Portfolio**](https://github.com/karthic180/Programming/blob/main/READMEProgramMain.md)
 
 ---
 
-# **Core Skills & Tools**
+# Core Skills & Tools
 
-## **Power BI & Analytics**
+## Power BI & Analytics
+
 <p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_Pivot-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=flat"/>
+  <img src="https://img.shields.io/badge/DAX-0F6CBD?style=flat"/>
   <img src="https://img.shields.io/badge/Semantic_Modeling-F2C811?style=flat"/>
   <img src="https://img.shields.io/badge/Dimensional_Modeling-00599C?style=flat"/>
   <img src="https://img.shields.io/badge/KPI_Design-FF6F00?style=flat"/>
   <img src="https://img.shields.io/badge/Data_Storytelling-FF4081?style=flat"/>
   <img src="https://img.shields.io/badge/Data_Governance-0078D4?style=flat"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-## **Programming Languages**
+## Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -62,7 +75,8 @@ Background spans identity and access management (IAM), Salesforce data environme
 
 ---
 
-## **Programming & Data Engineering**
+## Programming & Data Engineering
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
@@ -74,7 +88,8 @@ Background spans identity and access management (IAM), Salesforce data environme
 
 ---
 
-## **APIs, Integrations & Automation**
+## APIs, Integrations & Automation
+
 <p>
   <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
@@ -88,7 +103,8 @@ Background spans identity and access management (IAM), Salesforce data environme
 
 ---
 
-## **SQL & Databases**
+## SQL & Databases
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
@@ -98,7 +114,8 @@ Background spans identity and access management (IAM), Salesforce data environme
 
 ---
 
-## **Power Platform**
+## Power Platform
+
 <p>
   <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/>
@@ -108,7 +125,8 @@ Background spans identity and access management (IAM), Salesforce data environme
 
 ---
 
-## **Version Control & DevOps**
+## Version Control & DevOps
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
@@ -120,7 +138,8 @@ Background spans identity and access management (IAM), Salesforce data environme
 
 ---
 
-## **Cloud Platforms**
+## Cloud Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black"/>
@@ -130,7 +149,8 @@ Background spans identity and access management (IAM), Salesforce data environme
 
 ---
 
-## **Office, Collaboration & Productivity**
+## Office, Collaboration & Productivity
+
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>
