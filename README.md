@@ -39,7 +39,6 @@ Combines a structured and analytical approach with practical problem-solving to 
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 </p>
 
-[**View Programming Portfolio**](https://github.com/karthic180/Programming/blob/main/READMEProgramMain.md)
 
 ---
 
@@ -57,7 +56,6 @@ Combines a structured and analytical approach with practical problem-solving to 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-[**View Data Architecture Portfolio**](https://github.com/karthic180/dataarchitecture)
 ---
 
 # Core Skills & Tools
