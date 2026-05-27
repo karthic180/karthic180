@@ -24,8 +24,6 @@ Combines a structured and analytical approach with practical problem-solving to 
   <img src="https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat&logo=googleanalytics&logoColor=white"/>
 </p>
 
-[**View BI Portfolio**](https://github.com/karthic180/biportfolio/blob/main/READMEBI_Main.md)
-
 ---
 
 ## Programming
