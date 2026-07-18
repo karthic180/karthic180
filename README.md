@@ -1,7 +1,7 @@
 # Summary
 
-Experienced Data Architect, BI Developer, Data Analyst, and Developer delivering data, analytics, automation, and business intelligence solutions across the Microsoft ecosystem and modern open-source platforms.
-Skilled in end-to-end BI development, data engineering, cloud analytics, and workflow automation using Microsoft Fabric, Power BI, Power Pivot, Power Query, the Power Platform, Python, SQL (including PostgreSQL and SQLite), and Visual Studio Code.
+Delivering data, analytics, automation, and business intelligence solutions across the Microsoft ecosystem and modern open-source platforms.
+Skilled in end-to-end BI development, data engineering, cloud analytics, and workflow automation using Microsoft Fabric, Power BI, Power Pivot, Power Query, the Power Platform, SQL (including PostgreSQL and SQLite), and VSCode
 
 Background includes identity and access management (IAM), Salesforce data environments, and certified Salesforce capabilities, alongside broader BI, analytics, and data-modelling technologies. Strong experience designing scalable data architectures, semantic models, ETL pipelines, and insight-driven dashboards that support strategic and operational decision-making.
 
