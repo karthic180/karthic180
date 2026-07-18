@@ -14,7 +14,7 @@ Combines a structured and analytical approach with practical problem-solving to 
 # Portfolios
 
 ## Business Intelligence (BI)
-
+[View Project Repository](https://github.com/karthic180/biportfolio)
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Power_Pivot-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
@@ -41,7 +41,7 @@ Combines a structured and analytical approach with practical problem-solving to 
 ---
 
 ## Data Architecture
-
+[View Project Repository](https://github.com/karthic180/dataarchitecture)
 <p>
   <img src="https://img.shields.io/badge/Data_Architecture-0052CC?style=flat"/>
   <img src="https://img.shields.io/badge/Data_Modeling-0F6CBD?style=flat"/>
@@ -59,6 +59,8 @@ Combines a structured and analytical approach with practical problem-solving to 
 # Core Skills & Tools
 
 ## Power BI & Analytics
+[View Project Repository](https://github.com/karthic180/power-bi-dashboards)
+
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
@@ -75,6 +77,8 @@ Combines a structured and analytical approach with practical problem-solving to 
 ---
 
 ## Programming Languages
+[View Project Repository](https://github.com/karthic180/Programming)
+
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
