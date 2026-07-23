@@ -1,182 +1,80 @@
 # Summary
 
-Delivering data, analytics, automation, and business intelligence solutions across the Microsoft ecosystem and modern open-source platforms.
-Skilled in end-to-end BI development, data engineering, cloud analytics, and workflow automation using Microsoft Fabric, Power BI, Power Pivot, Power Query, the Power Platform, SQL (including PostgreSQL and SQLite), and VSCode
+Data & BI professional delivering analytics, automation, and modern data solutions across the Microsoft ecosystem and open-source platforms.
 
-Background includes identity and access management (IAM), Salesforce data environments, and certified Salesforce capabilities, alongside broader BI, analytics, and data-modelling technologies. Strong experience designing scalable data architectures, semantic models, ETL pipelines, and insight-driven dashboards that support strategic and operational decision-making.
+Experienced in Power BI, Microsoft Fabric, Power Platform, SQL, Python, cloud analytics, data engineering, semantic modelling, ETL pipelines, and business intelligence solutions.
 
-Focused on delivering solutions that are robust, maintainable, scalable, and aligned with organisational objectives — whether engineering modern data platforms, improving SQL performance, developing automation workflows, or building interactive analytics solutions.
-
-Combines a structured and analytical approach with practical problem-solving to create technically sound solutions ready for real-world business use.
+Background includes IAM, Salesforce data environments, data architecture, and workflow automation. Focused on building scalable, maintainable, and insight-driven solutions.
 
 ---
 
-# Portfolios
+# Portfolio
 
 ## Business Intelligence (BI)
-[View Project Repository](https://github.com/karthic180/biportfolio)
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power_Pivot-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Query-742774?style=flat"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker-00B4D8?style=flat&logo=looker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-1A73E8?style=flat&logo=googleanalytics&logoColor=white"/>
-</p>
-
----
-
-## Programming
+[View Repository](https://github.com/karthic180/biportfolio)
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_Query-742774?style=flat"/>
+<img src="https://img.shields.io/badge/DAX-0F6CBD?style=flat"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker-00B4D8?style=flat&logo=looker&logoColor=white"/>
 </p>
-
 
 ---
 
 ## Data Architecture
-[View Project Repository](https://github.com/karthic180/dataarchitecture)
+[View Repository](https://github.com/karthic180/dataarchitecture)
+
 <p>
-  <img src="https://img.shields.io/badge/Data_Architecture-0052CC?style=flat"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-0F6CBD?style=flat"/>
-  <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat"/>
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_Data-0089D6?style=flat&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Warehouse-003B57?style=flat"/>
-  <img src="https://img.shields.io/badge/Lakehouse-1F70C1?style=flat"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Architecture-0052CC?style=flat"/>
+<img src="https://img.shields.io/badge/Data_Modeling-0F6CBD?style=flat"/>
+<img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat"/>
+<img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Data-0089D6?style=flat&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lakehouse-1F70C1?style=flat"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
 
 # Core Skills & Tools
 
-## Power BI & Analytics
-[View Project Repository](https://github.com/karthic180/power-bi-dashboards)
-
-
+## Analytics & Modelling
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power_Pivot-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Query-742774?style=flat"/>
-  <img src="https://img.shields.io/badge/DAX-0F6CBD?style=flat"/>
-  <img src="https://img.shields.io/badge/Semantic_Modeling-F2C811?style=flat"/>
-  <img src="https://img.shields.io/badge/Dimensional_Modeling-00599C?style=flat"/>
-  <img src="https://img.shields.io/badge/KPI_Design-FF6F00?style=flat"/>
-  <img src="https://img.shields.io/badge/Data_Storytelling-FF4081?style=flat"/>
-  <img src="https://img.shields.io/badge/Data_Governance-0078D4?style=flat"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Semantic_Modeling-F2C811?style=flat"/>
+<img src="https://img.shields.io/badge/Dimensional_Modeling-00599C?style=flat"/>
+<img src="https://img.shields.io/badge/KPI_Design-FF6F00?style=flat"/>
+<img src="https://img.shields.io/badge/Data_Governance-0078D4?style=flat"/>
 </p>
-
----
-
-## Programming Languages
-[View Project Repository](https://github.com/karthic180/Programming)
-
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-
----
 
 ## Programming & Data Engineering
-
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat"/>
-  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 </p>
 
----
-
-## APIs, Integrations & Automation
-
+## Automation & Integration
 <p>
-  <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Graph_API-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat"/>
-  <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat"/>
+<img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Graph_API-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat"/>
 </p>
 
----
-
-## SQL & Databases
-
+## Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
-
----
-
-## Power Platform
-
-<p>
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Virtual_Agents-0A0A0A?style=flat&logo=botframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dataverse-2E2E2E?style=flat&logo=microsoft&logoColor=white"/>
-</p>
-
----
-
-## Version Control & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bamboo-0052CC?style=flat&logo=atlassian&logoColor=white"/>
-</p>
-
----
-
-## Cloud Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-</p>
-
----
-
-## Office, Collaboration & Productivity
-
-<p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"/>
-</p>
-
----
