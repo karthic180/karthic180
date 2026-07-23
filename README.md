@@ -1,10 +1,10 @@
 # Summary
 
-Data & BI professional delivering analytics, automation, and modern data solutions across the Microsoft ecosystem and open-source platforms.
+Data & BI professional specialising in analytics, automation, and modern data solutions across the Microsoft ecosystem and open-source platforms.
 
-Experienced in Power BI, Microsoft Fabric, Power Platform, SQL, Python, cloud analytics, data engineering, semantic modelling, ETL pipelines, and business intelligence solutions.
+Experienced in Power BI, Microsoft Fabric, Power Platform, SQL, Python, cloud analytics, data engineering, semantic modelling, ETL pipelines, and enterprise business intelligence solutions.
 
-Background includes IAM, Salesforce data environments, data architecture, and workflow automation. Focused on building scalable, maintainable, and insight-driven solutions.
+Background includes Identity and Access Management (IAM), Salesforce data environments, data architecture, and workflow automation. Focused on building scalable, maintainable, and insight-driven solutions that enable better business decisions.
 
 ---
 
@@ -28,7 +28,7 @@ Background includes IAM, Salesforce data environments, data architecture, and wo
 
 <p>
 <img src="https://img.shields.io/badge/Data_Architecture-0052CC?style=flat"/>
-<img src="https://img.shields.io/badge/Data_Modeling-0F6CBD?style=flat"/>
+<img src="https://img.shields.io/badge/Data_Modelling-0F6CBD?style=flat"/>
 <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat"/>
 <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure_Data-0089D6?style=flat&logo=microsoftazure&logoColor=white"/>
@@ -40,16 +40,20 @@ Background includes IAM, Salesforce data environments, data architecture, and wo
 
 # Core Skills & Tools
 
-## Analytics & Modelling
+## Analytics & Data Modelling
+
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Semantic_Modeling-F2C811?style=flat"/>
-<img src="https://img.shields.io/badge/Dimensional_Modeling-00599C?style=flat"/>
+<img src="https://img.shields.io/badge/Semantic_Modelling-F2C811?style=flat"/>
+<img src="https://img.shields.io/badge/Dimensional_Modelling-00599C?style=flat"/>
 <img src="https://img.shields.io/badge/KPI_Design-FF6F00?style=flat"/>
 <img src="https://img.shields.io/badge/Data_Governance-0078D4?style=flat"/>
 </p>
 
+---
+
 ## Programming & Data Engineering
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -59,7 +63,10 @@ Background includes IAM, Salesforce data environments, data architecture, and wo
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 </p>
 
+---
+
 ## Automation & Integration
+
 <p>
 <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=flat"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
@@ -69,7 +76,10 @@ Background includes IAM, Salesforce data environments, data architecture, and wo
 <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat"/>
 </p>
 
+---
+
 ## Cloud & DevOps
+
 <p>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black"/>
