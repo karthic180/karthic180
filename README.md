@@ -1,6 +1,6 @@
 # Summary
 
-Data & BI professional specialising in analytics, automation, and modern data solutions across the Microsoft ecosystem and open-source platforms.
+BI professional specialising in analytics, automation, and modern data solutions across the Microsoft ecosystem and open-source platforms.
 
 Experienced in Power BI, Microsoft Fabric, Power Platform, SQL, Python, cloud analytics, data engineering, semantic modelling, ETL pipelines, and enterprise business intelligence solutions.
 
@@ -22,18 +22,20 @@ Background includes Identity and Access Management (IAM), Salesforce data enviro
 </p>
 
 ---
-
-## Data Architecture
-[View Repository](https://github.com/karthic180/dataarchitecture)
-
-<p>
-<img src="https://img.shields.io/badge/Data_Architecture-0052CC?style=flat"/>
-<img src="https://img.shields.io/badge/Data_Modelling-0F6CBD?style=flat"/>
-<img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=flat"/>
-<img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_Data-0089D6?style=flat&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lakehouse-1F70C1?style=flat"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+## Salesforce
+<p align="left">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Salesforce_Administrator-0176D3?style=flat&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentforce_Specialist-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CRM-00A1E0?style=flat"/>
+  <img src="https://img.shields.io/badge/Flow_Automation-1589EE?style=flat"/>
+  <img src="https://img.shields.io/badge/Sales_Cloud-00A1E0?style=flat&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Service_Cloud-1798C1?style=flat&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reports_&_Dashboards-0176D3?style=flat"/>
+  <img src="https://img.shields.io/badge/User_Management-00A1E0?style=flat"/>
+  <img src="https://img.shields.io/badge/Data_Management-1589EE?style=flat"/>
+  <img src="https://img.shields.io/badge/AI_Agents-5A4FCF?style=flat"/>
+  <img src="https://img.shields.io/badge/Prompt_Builder-7B61FF?style=flat"/>
 </p>
 
 ---
