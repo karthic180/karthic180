@@ -17,8 +17,6 @@ Background includes Identity and Access Management (IAM), Salesforce data enviro
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Power_Query-742774?style=flat"/>
 <img src="https://img.shields.io/badge/DAX-0F6CBD?style=flat"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker-00B4D8?style=flat&logo=looker&logoColor=white"/>
 </p>
 
 ---
