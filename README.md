@@ -12,8 +12,10 @@ I focus on connecting **business requirements, CRM processes and data** to build
 
 #  Salesforce Credentials
 
-![Trailhead Profile] (https://github.com/karthic180/karthic180/blob/main/KS%20Profiel%20SF.png)
-(https://github.com/karthic180/karthic180/blob/main/KS%20Certs.png)
+![Trailhead Profile](https://raw.githubusercontent.com/karthic180/karthic180/main/KS%20Profiel%20SF.png)
+
+![Salesforce Certifications](https://raw.githubusercontent.com/karthic180/karthic180/main/KS%20Certs.png)
+
 
  **[View my Salesforce Trailblazer Profile](https://www.salesforce.com/trailblazer/karthic2)**
 
