@@ -1,56 +1,59 @@
- Hi, I'm Karthic
+# Hi, I'm Karthic 
 
-Certified Salesforce and Data professional with experience in Service Cloud, Agent force, Flow automation, CRM data management, Power BI, Microsoft Fabric, SQL and enterprise reporting.
+Certified Salesforce Administrator and Data Analytics professional with experience delivering CRM, reporting and data solutions across Salesforce, Power BI and Microsoft Fabric.
 
-I enjoy bridging the gap between business processes, customer data and analytics, delivering solutions that improve operational efficiency, customer experience and decision-making.
+I specialise in transforming business requirements into scalable solutions through Salesforce administration, Service Cloud, Agentforce, Flow automation, CRM data management and analytics. My focus is on improving operational efficiency, enhancing customer experiences and enabling data-driven decision making.
 
-Salesforce Administration | Service Cloud | Agentforce
+###  Core Areas
 
- Power BI | Microsoft Fabric | Data Analytics
+ Salesforce Administration | Service Cloud | Agentforce | Flow Automation
+ Power BI | Microsoft Fabric | DAX | Power Query | Enterprise Reporting
+ SQL | PostgreSQL | Data Modelling | ETL | Data Governance
 
- SQL | PostgreSQL | Data Modelling | ETL
+ CRM Data Management | Customer 360 | Process Improvement | Business Analytics
 
- CRM Automation | Reporting | Customer 360
+---
 
-## Certifications
+##  Certifications
 
-Salesforce Trailblazer Profile:
+ **Salesforce Trailblazer**  
 https://www.salesforce.com/trailblazer/karthic2
 
-Credly
-(https://www.credly.com/users/karthic2)
+ **Credly**  
+https://www.credly.com/users/karthic2
 
 ![Salesforce Certifications](https://raw.githubusercontent.com/karthic180/karthic180/main/KS%20Certs.png)
 
-## 🛠️ Skills
+---
+
+##  Skills
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Salesforce_Admin-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentforce-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Flow-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/DAX-0F6CBD?style=flat" />
-<img src="https://img.shields.io/badge/Power_Query-742774?style=flat" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/ETL-0078D4?style=flat" />
-<img src="https://img.shields.io/badge/Semantic_Modelling-F2C811?style=flat" />
-<img src="https://img.shields.io/badge/Data_Governance-0078D4?style=flat" />
-<img src="https://img.shields.io/badge/Customer_360-00A1E0?style=flat" />
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Apps-742774?style=flat&logo=powerapps&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Salesforce_Admin-00A1E0?style=flat&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=flat&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentforce-00A1E0?style=flat&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flow-00A1E0?style=flat&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-0F6CBD?style=flat" />
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=flat" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-0078D4?style=flat" />
+  <img src="https://img.shields.io/badge/Data_Modelling-FF6F00?style=flat" />
+  <img src="https://img.shields.io/badge/Customer_360-00A1E0?style=flat" />
 </p>
 
+---
 
 ##  Projects
 
-### BI Portfolio
+### BI
+
 
 [![BI Portfolio](https://img.shields.io/badge/Explore_BI_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthic180/biportfolio)
+
+### Salesforce CRM Solutions
+
+Salesforce Administration, Service Cloud, Agentforce, Flow automation and CRM data management projects designed to improve business processes and customer outcomes.
