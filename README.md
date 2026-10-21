@@ -48,7 +48,6 @@ https://www.credly.com/users/karthic2
   <!-- Data -->
   <img src="https://img.shields.io/badge/SQL-336791?style=flat" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Modelling-FF6F00?style=flat" />
   <img src="https://img.shields.io/badge/ETL-0078D4?style=flat" />
 
