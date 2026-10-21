@@ -14,8 +14,6 @@ https://www.salesforce.com/trailblazer/karthic2
  **Credly**  
 https://www.credly.com/users/karthic2
 
-![Salesforce Certifications](https://raw.githubusercontent.com/karthic180/karthic180/main/KS%20Certs.png)
-
 ---
 
 ##  Skills
