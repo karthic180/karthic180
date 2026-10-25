@@ -1,8 +1,6 @@
 # Hi, I'm Karthic
 
-CRM & Business Applications Consultant specialising in Salesforce, Microsoft Dynamics 365, Power Platform, Power BI and Microsoft Fabric.
-
-Experienced in CRM Administration, Customer Service Solutions, Process Automation, Data Analytics and Enterprise Reporting across Salesforce and Microsoft ecosystems.
+Experienced in CRM Administration, Process Automation, Data Analytics and Enterprise Reporting across Salesforce and Microsoft ecosystems.
 
 ---
 
