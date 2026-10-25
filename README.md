@@ -1,4 +1,4 @@
-# Hi, I'm Karthic 👋
+# Hi, I'm Karthic 
 
 IT and CRM professional with an interest in Salesforce Administration, Microsoft Technologies, IT Support, Identity & Access Management, and Enterprise Solutions.
 
@@ -6,19 +6,19 @@ Focused on CRM administration, business process automation, technical troublesho
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 ### Salesforce Trailblazer
-🔗 https://www.salesforce.com/trailblazer/karthic2
+ https://www.salesforce.com/trailblazer/karthic2
 
 ### Credly
-🔗 https://www.credly.com/users/karthic2
+ https://www.credly.com/users/karthic2
 
 ![Salesforce Certifications](https://raw.githubusercontent.com/karthic180/karthic180/main/KS%20Certs.png)
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### CRM & Business Applications
 
@@ -79,7 +79,7 @@ Focused on CRM administration, business process automation, technical troublesho
 
 ---
 
-## 🎯 Core Areas of Interest
+##  Core Areas of Interest
 
 - Salesforce CRM Administration & Configuration
 - Service Cloud & Agentforce
@@ -96,7 +96,7 @@ Focused on CRM administration, business process automation, technical troublesho
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 - **GitHub:** https://github.com/karthic180
 - **Salesforce Trailblazer:** https://www.salesforce.com/trailblazer/karthic2
