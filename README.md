@@ -1,6 +1,6 @@
 # Hi, I'm Karthic 
 
-IT and CRM professional with an interest in Salesforce Administration, Microsoft Technologies, IT Support, Identity & Access Management, and Enterprise Solutions.
+IT and CRM professional with an interest in Salesforce Administration, IT Support, IAM,PAM,PIM and Enterprise Solutions.
 
 Focused on CRM administration, business process automation, technical troubleshooting, user access management, security, data analytics, and improving business operations across Salesforce and Microsoft ecosystems.
 
@@ -27,7 +27,6 @@ Focused on CRM administration, business process automation, technical troublesho
   <img src="https://img.shields.io/badge/Salesforce_Administration-00A1E0?style=flat&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=flat&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentforce-00A1E0?style=flat&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Dynamics_365-002050?style=flat&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=microsoft&logoColor=white" />
 </p>
 
@@ -35,7 +34,7 @@ Focused on CRM administration, business process automation, technical troublesho
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft365&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_IT_Support-0078D4?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT_Support-0078D4?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/IAM-4051B5?style=flat" />
   <img src="https://img.shields.io/badge/PAM-8E44AD?style=flat" />
