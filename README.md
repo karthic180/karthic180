@@ -1,6 +1,6 @@
 # Hi, I'm Karthic 
 
-IT and CRM professional with an interest in Salesforce Administration, IT Support, IAM,PAM,PIM and Enterprise Solutions.
+IT and CRM professional with an interest in Salesforce Administration, IT Support, IAM, PAM, PIM, and Enterprise Solutions.
 
 Focused on CRM administration, business process automation, technical troubleshooting, user access management, security, data analytics, and improving business operations across Salesforce and Microsoft ecosystems.
 
@@ -8,17 +8,21 @@ Focused on CRM administration, business process automation, technical troublesho
 
 ## Certifications
 
-### Salesforce Trailblazer
- https://www.salesforce.com/trailblazer/karthic2
+https://www.salesforce.com/trailblazer/karthic2
+---
+https://www.credly.com/users/karthic2
+---
+## Connect & Portfolio
 
-### Credly
- https://www.credly.com/users/karthic2
-
-![Salesforce Certifications](https://raw.githubusercontent.com/karthic180/karthic180/main/KS%20Certs.png)
-
+- **Main Programming Portfolio:** [github.com/karthic180/Programming](https://github.com/karthic180/Programming)
+- **HTML Projects:** [github.com/karthic180/HTML](https://github.com/karthic180/HTML)
+- **Python Projects:** [github.com/karthic180/Python](https://github.com/karthic180/Python)
+- **Java Projects:** [github.com/karthic180/Java](https://github.com/karthic180/Java)
+- **Salesforce Trailblazer:** [salesforce.com/trailblazer/karthic2](https://www.salesforce.com/trailblazer/karthic2)
+- **Credly Badges:** [credly.com/users/karthic2](https://www.credly.com/users/karthic2)
 ---
 
-##  Technical Skills
+## Technical Skills
 
 ### CRM & Business Applications
 
@@ -78,7 +82,7 @@ Focused on CRM administration, business process automation, technical troublesho
 
 ---
 
-##  Core Areas of Interest
+## Core Areas of Interest
 
 - Salesforce CRM Administration & Configuration
 - Service Cloud & Agentforce
@@ -94,9 +98,3 @@ Focused on CRM administration, business process automation, technical troublesho
 - IT Operations, Security & Continuous Improvement
 
 ---
-
-##  Connect
-
-- **GitHub:** https://github.com/karthic180
-- **Salesforce Trailblazer:** https://www.salesforce.com/trailblazer/karthic2
-- **Credly:** https://www.credly.com/users/karthic2
