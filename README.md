@@ -12,14 +12,12 @@ https://www.salesforce.com/trailblazer/karthic2
 ---
 https://www.credly.com/users/karthic2
 ---
-## Connect & Portfolio
+## Portfolio
 
-- **Main Programming Portfolio:** [github.com/karthic180/Programming](https://github.com/karthic180/Programming)
-- **HTML Projects:** [github.com/karthic180/HTML](https://github.com/karthic180/HTML)
-- **Python Projects:** [github.com/karthic180/Python](https://github.com/karthic180/Python)
-- **Java Projects:** [github.com/karthic180/Java](https://github.com/karthic180/Java)
+- **Main Programming Portfolio:** [Programming](https://github.com/karthic180/Programming)
 - **Salesforce Trailblazer:** [salesforce.com/trailblazer/karthic2](https://www.salesforce.com/trailblazer/karthic2)
 - **Credly Badges:** [credly.com/users/karthic2](https://www.credly.com/users/karthic2)
+-  **BI Portfolio:** [BI](https://www.github.com/karthic180/business-intelligence-portfolio)
 ---
 
 ## Technical Skills
